@@ -1,0 +1,256 @@
+body {
+    margin: 0;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    background-color: #4C4B63;
+}
+table {
+    margin-left: 20%;
+    margin-right: 20%;
+    border-collapse: separate;
+    border-spacing: 0 5px;
+}
+
+#headerThing{
+    width: 100%;
+    height: 130px;
+    position: fixed;
+    z-index: 1;
+    overflow: visible;
+    background-color: #4C4B63;
+
+}
+
+#headerThing div{
+    top: 0;
+    position: sticky;
+}
+
+#checkboxDiv {
+    z-index: 1;
+    width: 100%;
+    height: 58px;
+    font-size: 16px;
+    border: 2px;
+    position: sticky;
+    top: 0;
+    background-color: #4C4B63;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#checkboxDiv div {
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+    align-items: center;
+    
+}
+
+th img {
+    height: 20px;
+    padding-top: 5px;
+}
+
+div span {
+    margin-left: 5px;
+}
+
+tr {
+    background-color: #39A0ED;
+    padding: 12px;
+}
+
+#header {
+    border: 10px solid white;
+}
+
+th {
+    z-index: 1;
+    background-color: #4C4B63;
+    position: sticky;
+    height: 50px;
+    top: 65px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    text-align: center;
+}
+
+th:first-child {
+    border-radius: 20px 0 0 20px;
+}
+
+th:last-child {
+    border-right: 2px solid black;
+    border-radius: 0 20px 20px 0;
+}
+
+th:nth-child(4) {
+    border-left: none;
+}
+th:nth-child(3) {
+    border-right: 2px solid black;
+}
+
+th:nth-child(4) {
+    text-align: left;
+}
+
+
+
+.switch {
+    border-left: 2px solid black;
+    position: relative;
+    width: 20px;
+}
+
+.boxlocation {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 0 20px 20px 0;
+}
+
+.boxdiv {
+    width: 20px;
+    height: 40px;
+    position: relative;
+
+}
+
+.boxdiv div {
+    display: inline-block;
+    position: absolute;
+}
+
+.boxdiv div p {
+    z-index: 32;
+    position: absolute;
+    top: -10px;
+    left: 102px;
+}
+
+.boxdiv div img {
+    border: 2px solid black;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 30;
+}
+.boxdiv div .ball {
+    z-index: 31;
+    border: none;
+    padding: 0;
+    background-color: transparent;
+}
+
+.boxdiv > img {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+
+td.checkbox {
+    border-left: 2px solid black;
+    border-radius: 20px 0 0 20px;
+}
+
+.number {
+    border-left: 2px solid black;
+}
+.name {
+    width: 210px;
+}
+
+td {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    position: relative;
+    display: flex;
+    padding: 3px;
+    border-left: none;
+    border-right: none;
+}
+.image.shiny::after {
+    background-image: url(img/shiny.png);
+    background-size: 20px 20px;
+    display: block;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 20px;
+    height: 20px;
+    content: "";
+}
+
+
+
+.image img {
+    display: flex;
+    padding: 0px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+.switch > img {
+    height: 20px;
+    width: 20px;
+    top: 25px;
+    left: 10px;
+    position: absolute;
+}
+
+.unavailable {
+    background-color: #AD2831;
+}
+
+.checked {
+    background-color: #97DB4F;
+}
+/* .unavailable.checked {
+    background-color: #D3C1D2;
+} */
+
+.checkbox > input[type=checkbox] {
+    -webkit-appearance: none;
+	background-color: #fafafa;
+	border: 1px solid #cacece;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+	padding: 9px;
+	border-radius: 3px;
+	display: inline-block;
+	position: relative;
+    z-index: 0;
+}
+.checkbox > input[type=checkbox]:active, input:checked:active {
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1);
+}
+
+.checkbox > input[type=checkbox]:checked {
+	background-color: #e9ecee;
+	border: 1px solid #adb8c0;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05), inset 15px 10px -12px rgba(255,255,255,0.1);
+	color: #99a1a7;
+}
+
+.checkbox > input[type=checkbox]:checked:after {
+	content: '\2714';
+	font-size: 14px;
+	position: absolute;
+	top: 0px;
+	left: 3px;
+	color: #99a1a7;
+}
+
+#enddiv {
+    height: 200px;
+}

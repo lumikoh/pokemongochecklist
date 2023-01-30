@@ -1,0 +1,9592 @@
+[
+	{
+		"name": "Bulbasaur",
+		"number": "#001",
+		"shinyReleased": 1,
+		"slug": "bulbasaur",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0t095f3"
+	},
+	{
+		"name": "Ivysaur",
+		"number": "#002",
+		"shinyReleased": 1,
+		"slug": "ivysaur",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "21ai12n"
+	},
+	{
+		"name": "Venusaur",
+		"number": "#003",
+		"shinyReleased": 1,
+		"slug": "venusaur",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5ug8n6u"
+	},
+	{
+		"name": "Charmander",
+		"number": "#004",
+		"shinyReleased": 1,
+		"slug": "charmander",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6gmi75i"
+	},
+	{
+		"name": "Charmeleon",
+		"number": "#005",
+		"shinyReleased": 1,
+		"slug": "charmeleon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6gj38jp"
+	},
+	{
+		"name": "Charizard",
+		"number": "#006",
+		"shinyReleased": 1,
+		"slug": "charizard",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1erd9fc"
+	},
+	{
+		"name": "Squirtle",
+		"number": "#007",
+		"shinyReleased": 1,
+		"slug": "squirtle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4n98u2i"
+	},
+	{
+		"name": "Wartortle",
+		"number": "#008",
+		"shinyReleased": 1,
+		"slug": "wartortle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5eh85n1"
+	},
+	{
+		"name": "Blastoise",
+		"number": "#009",
+		"shinyReleased": 1,
+		"slug": "blastoise",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1lk3ot4"
+	},
+	{
+		"name": "Caterpie",
+		"number": "#010",
+		"shinyReleased": 1,
+		"slug": "caterpie",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "01gfft9"
+	},
+	{
+		"name": "Metapod",
+		"number": "#011",
+		"shinyReleased": 1,
+		"slug": "metapod",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0sf28h0"
+	},
+	{
+		"name": "Butterfree",
+		"number": "#012",
+		"shinyReleased": 1,
+		"slug": "butterfree",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "028uf3c"
+	},
+	{
+		"name": "Weedle",
+		"number": "#013",
+		"shinyReleased": 1,
+		"slug": "weedle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4nj16ep"
+	},
+	{
+		"name": "Kakuna",
+		"number": "#014",
+		"shinyReleased": 1,
+		"slug": "kakuna",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "51u098c"
+	},
+	{
+		"name": "Beedrill",
+		"number": "#015",
+		"shinyReleased": 1,
+		"slug": "beedrill",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1ahh78p"
+	},
+	{
+		"name": "Pidgey",
+		"number": "#016",
+		"shinyReleased": 1,
+		"slug": "pidgey",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4tel4gf"
+	},
+	{
+		"name": "Pidgeotto",
+		"number": "#017",
+		"shinyReleased": 1,
+		"slug": "pidgeotto",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4jjsfdm"
+	},
+	{
+		"name": "Pidgeot",
+		"number": "#018",
+		"shinyReleased": 1,
+		"slug": "pidgeot",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4h6fc5h"
+	},
+	{
+		"name": "Rattata",
+		"number": "#019",
+		"shinyReleased": 1,
+		"slug": "rattata",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0taakpv"
+	},
+	{
+		"name": "Rattata",
+		"number": "#019",
+		"shinyReleased": 1,
+		"slug": "rattata-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4ceh5fk"
+	},
+	{
+		"name": "Raticate",
+		"number": "#020",
+		"shinyReleased": 1,
+		"slug": "raticate",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0cmldhj"
+	},
+	{
+		"name": "Raticate",
+		"number": "#020",
+		"shinyReleased": 1,
+		"slug": "raticate-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "1m3nhfv"
+	},
+	{
+		"name": "Spearow",
+		"number": "#021",
+		"shinyReleased": 1,
+		"slug": "spearow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "244gus1"
+	},
+	{
+		"name": "Fearow",
+		"number": "#022",
+		"shinyReleased": 1,
+		"slug": "fearow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5639677"
+	},
+	{
+		"name": "Ekans",
+		"number": "#023",
+		"shinyReleased": 1,
+		"slug": "ekans",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02s2os0"
+	},
+	{
+		"name": "Arbok",
+		"number": "#024",
+		"shinyReleased": 1,
+		"slug": "arbok",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02oodvd"
+	},
+	{
+		"name": "Pikachu",
+		"number": "#025",
+		"shinyReleased": 1,
+		"slug": "pikachu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4h0fjlu"
+	},
+	{
+		"name": "Raichu",
+		"number": "#026",
+		"shinyReleased": 1,
+		"slug": "raichu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4ruupd9"
+	},
+	{
+		"name": "Raichu",
+		"number": "#026",
+		"shinyReleased": 1,
+		"slug": "raichu-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "09m1gv2"
+	},
+	{
+		"name": "Sandshrew",
+		"number": "#027",
+		"shinyReleased": 1,
+		"slug": "sandshrew",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1hif01b"
+	},
+	{
+		"name": "Sandshrew",
+		"number": "#027",
+		"shinyReleased": 1,
+		"slug": "sandshrew-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1u8edfn"
+	},
+	{
+		"name": "Sandslash",
+		"number": "#028",
+		"shinyReleased": 1,
+		"slug": "sandslash",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1hii4rp"
+	},
+	{
+		"name": "Sandslash",
+		"number": "#028",
+		"shinyReleased": 1,
+		"slug": "sandslash-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "44v95m5"
+	},
+	{
+		"name": "Nidoran♀",
+		"number": "#029",
+		"shinyReleased": 1,
+		"slug": "nidoran-f",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "50mv8cd"
+	},
+	{
+		"name": "Nidorina",
+		"number": "#030",
+		"shinyReleased": 1,
+		"slug": "nidorina",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "032bjlg"
+	},
+	{
+		"name": "Nidoqueen",
+		"number": "#031",
+		"shinyReleased": 1,
+		"slug": "nidoqueen",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50n9f4r"
+	},
+	{
+		"name": "Nidoran♂",
+		"number": "#032",
+		"shinyReleased": 1,
+		"slug": "nidoran-m",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "50mv8c6"
+	},
+	{
+		"name": "Nidorino",
+		"number": "#033",
+		"shinyReleased": 1,
+		"slug": "nidorino",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "032bjlu"
+	},
+	{
+		"name": "Nidoking",
+		"number": "#034",
+		"shinyReleased": 1,
+		"slug": "nidoking",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "032580t"
+	},
+	{
+		"name": "Clefairy",
+		"number": "#035",
+		"shinyReleased": 1,
+		"slug": "clefairy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0nljnhp"
+	},
+	{
+		"name": "Clefable",
+		"number": "#036",
+		"shinyReleased": 1,
+		"slug": "clefable",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0nljgp4"
+	},
+	{
+		"name": "Vulpix",
+		"number": "#037",
+		"shinyReleased": 1,
+		"slug": "vulpix",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4o017od"
+	},
+	{
+		"name": "Vulpix",
+		"number": "#037",
+		"shinyReleased": 1,
+		"slug": "vulpix-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0veu9bu"
+	},
+	{
+		"name": "Ninetales",
+		"number": "#038",
+		"shinyReleased": 1,
+		"slug": "ninetales",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2v9kpor"
+	},
+	{
+		"name": "Ninetales",
+		"number": "#038",
+		"shinyReleased": 1,
+		"slug": "ninetales-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1loqa77"
+	},
+	{
+		"name": "Jigglypuff",
+		"number": "#039",
+		"shinyReleased": 1,
+		"slug": "jigglypuff",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "8r2342e"
+	},
+	{
+		"name": "Wigglytuff",
+		"number": "#040",
+		"shinyReleased": 1,
+		"slug": "wigglytuff",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "776a01v"
+	},
+	{
+		"name": "Zubat",
+		"number": "#041",
+		"shinyReleased": 1,
+		"slug": "zubat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "03ernnq"
+	},
+	{
+		"name": "Golbat",
+		"number": "#042",
+		"shinyReleased": 1,
+		"slug": "golbat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "54us4ne"
+	},
+	{
+		"name": "Oddish",
+		"number": "#043",
+		"shinyReleased": 1,
+		"slug": "oddish",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4ueblog"
+	},
+	{
+		"name": "Gloom",
+		"number": "#044",
+		"shinyReleased": 1,
+		"slug": "gloom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02tses8"
+	},
+	{
+		"name": "Vileplume",
+		"number": "#045",
+		"shinyReleased": 1,
+		"slug": "vileplume",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "44k3kkq"
+	},
+	{
+		"name": "Paras",
+		"number": "#046",
+		"shinyReleased": 1,
+		"slug": "paras",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "035g64j"
+	},
+	{
+		"name": "Parasect",
+		"number": "#047",
+		"shinyReleased": 1,
+		"slug": "parasect",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "12tagh3"
+	},
+	{
+		"name": "Venonat",
+		"number": "#048",
+		"shinyReleased": 1,
+		"slug": "venonat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0ablvjh"
+	},
+	{
+		"name": "Venomoth",
+		"number": "#049",
+		"shinyReleased": 1,
+		"slug": "venomoth",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5ulmrtp"
+	},
+	{
+		"name": "Diglett",
+		"number": "#050",
+		"shinyReleased": 1,
+		"slug": "diglett",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1hfk59r"
+	},
+	{
+		"name": "Diglett",
+		"number": "#050",
+		"shinyReleased": 1,
+		"slug": "diglett-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7d4cg7o"
+	},
+	{
+		"name": "Dugtrio",
+		"number": "#051",
+		"shinyReleased": 1,
+		"slug": "dugtrio",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1rng3oq"
+	},
+	{
+		"name": "Dugtrio",
+		"number": "#051",
+		"shinyReleased": 1,
+		"slug": "dugtrio-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0mad5d6"
+	},
+	{
+		"name": "Meowth",
+		"number": "#052",
+		"shinyReleased": 1,
+		"slug": "meowth",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "503of0b"
+	},
+	{
+		"name": "Meowth",
+		"number": "#052",
+		"shinyReleased": 1,
+		"slug": "meowth-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50pcg7v"
+	},
+	{
+		"name": "Meowth",
+		"number": "#052",
+		"shinyReleased": 1,
+		"slug": "meowth-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50kdg4l"
+	},
+	{
+		"name": "Persian",
+		"number": "#053",
+		"shinyReleased": 1,
+		"slug": "persian",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4k70i2v"
+	},
+	{
+		"name": "Persian",
+		"number": "#053",
+		"shinyReleased": 1,
+		"slug": "persian-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "9chpfij"
+	},
+	{
+		"name": "Psyduck",
+		"number": "#054",
+		"shinyReleased": 1,
+		"slug": "psyduck",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4830rrg"
+	},
+	{
+		"name": "Golduck",
+		"number": "#055",
+		"shinyReleased": 1,
+		"slug": "golduck",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "062pppt"
+	},
+	{
+		"name": "Mankey",
+		"number": "#056",
+		"shinyReleased": 1,
+		"slug": "mankey",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "507af9q"
+	},
+	{
+		"name": "Primeape",
+		"number": "#057",
+		"shinyReleased": 1,
+		"slug": "primeape",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "52pjf68"
+	},
+	{
+		"name": "Growlithe",
+		"number": "#058",
+		"shinyReleased": 1,
+		"slug": "growlithe",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5aij4iu"
+	},
+	{
+		"name": "Growlithe",
+		"number": "#058",
+		"shinyReleased": 0,
+		"slug": "growlithe-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "6nettc5"
+	},
+	{
+		"name": "Arcanine",
+		"number": "#059",
+		"shinyReleased": 1,
+		"slug": "arcanine",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5jaqlju"
+	},
+	{
+		"name": "Arcanine",
+		"number": "#059",
+		"shinyReleased": 0,
+		"slug": "arcanine-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "35qhniq"
+	},
+	{
+		"name": "Poliwag",
+		"number": "#060",
+		"shinyReleased": 1,
+		"slug": "poliwag",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4brhdiu"
+	},
+	{
+		"name": "Poliwhirl",
+		"number": "#061",
+		"shinyReleased": 1,
+		"slug": "poliwhirl",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4662li9"
+	},
+	{
+		"name": "Poliwrath",
+		"number": "#062",
+		"shinyReleased": 1,
+		"slug": "poliwrath",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "465pq31"
+	},
+	{
+		"name": "Abra",
+		"number": "#063",
+		"shinyReleased": 1,
+		"slug": "abra",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "002r5gg"
+	},
+	{
+		"name": "Kadabra",
+		"number": "#064",
+		"shinyReleased": 1,
+		"slug": "kadabra",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4s90op1"
+	},
+	{
+		"name": "Alakazam",
+		"number": "#065",
+		"shinyReleased": 1,
+		"slug": "alakazam",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6jfaam5"
+	},
+	{
+		"name": "Machop",
+		"number": "#066",
+		"shinyReleased": 1,
+		"slug": "machop",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "507khr5"
+	},
+	{
+		"name": "Machoke",
+		"number": "#067",
+		"shinyReleased": 1,
+		"slug": "machoke",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0oj2mjg"
+	},
+	{
+		"name": "Machamp",
+		"number": "#068",
+		"shinyReleased": 1,
+		"slug": "machamp",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0oj29hb"
+	},
+	{
+		"name": "Bellsprout",
+		"number": "#069",
+		"shinyReleased": 1,
+		"slug": "bellsprout",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "472bnu3"
+	},
+	{
+		"name": "Weepinbell",
+		"number": "#070",
+		"shinyReleased": 1,
+		"slug": "weepinbell",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4ce5tou"
+	},
+	{
+		"name": "Victreebel",
+		"number": "#071",
+		"shinyReleased": 1,
+		"slug": "victreebel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6kmbvf4"
+	},
+	{
+		"name": "Tentacool",
+		"number": "#072",
+		"shinyReleased": 1,
+		"slug": "tentacool",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2ojsdcj"
+	},
+	{
+		"name": "Tentacruel",
+		"number": "#073",
+		"shinyReleased": 1,
+		"slug": "tentacruel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "64nc3vs"
+	},
+	{
+		"name": "Geodude",
+		"number": "#074",
+		"shinyReleased": 1,
+		"slug": "geodude",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "42bii2s"
+	},
+	{
+		"name": "Geodude",
+		"number": "#074",
+		"shinyReleased": 1,
+		"slug": "geodude-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "220psrf"
+	},
+	{
+		"name": "Graveler",
+		"number": "#075",
+		"shinyReleased": 1,
+		"slug": "graveler",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0357pfk"
+	},
+	{
+		"name": "Graveler",
+		"number": "#075",
+		"shinyReleased": 1,
+		"slug": "graveler-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "69if7nv"
+	},
+	{
+		"name": "Golem",
+		"number": "#076",
+		"shinyReleased": 1,
+		"slug": "golem",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02tv31c"
+	},
+	{
+		"name": "Golem",
+		"number": "#076",
+		"shinyReleased": 1,
+		"slug": "golem-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4qeov9o"
+	},
+	{
+		"name": "Ponyta",
+		"number": "#077",
+		"shinyReleased": 1,
+		"slug": "ponyta",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4t92d08"
+	},
+	{
+		"name": "Ponyta",
+		"number": "#077",
+		"shinyReleased": 1,
+		"slug": "ponyta-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1kb1u9d"
+	},
+	{
+		"name": "Rapidash",
+		"number": "#078",
+		"shinyReleased": 1,
+		"slug": "rapidash",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "099fhvq"
+	},
+	{
+		"name": "Rapidash",
+		"number": "#078",
+		"shinyReleased": 1,
+		"slug": "rapidash-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "a3i0m8f"
+	},
+	{
+		"name": "Slowpoke",
+		"number": "#079",
+		"shinyReleased": 1,
+		"slug": "slowpoke",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "508opn5"
+	},
+	{
+		"name": "Slowpoke",
+		"number": "#079",
+		"shinyReleased": 0,
+		"slug": "slowpoke-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "ablrnvf"
+	},
+	{
+		"name": "Slowbro",
+		"number": "#080",
+		"shinyReleased": 1,
+		"slug": "slowbro",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "210ni3u"
+	},
+	{
+		"name": "Slowbro",
+		"number": "#080",
+		"shinyReleased": 0,
+		"slug": "slowbro-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "340kd3k"
+	},
+	{
+		"name": "Magnemite",
+		"number": "#081",
+		"shinyReleased": 1,
+		"slug": "magnemite",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5s72pd8"
+	},
+	{
+		"name": "Magneton",
+		"number": "#082",
+		"shinyReleased": 1,
+		"slug": "magneton",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "41u519m"
+	},
+	{
+		"name": "Farfetch'd",
+		"number": "#083",
+		"shinyReleased": 1,
+		"slug": "farfetchd",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2ov0rm1"
+	},
+	{
+		"name": "Farfetch'd",
+		"number": "#083",
+		"shinyReleased": 1,
+		"slug": "farfetchd-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5g688s8"
+	},
+	{
+		"name": "Doduo",
+		"number": "#084",
+		"shinyReleased": 1,
+		"slug": "doduo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02raacj"
+	},
+	{
+		"name": "Dodrio",
+		"number": "#085",
+		"shinyReleased": 1,
+		"slug": "dodrio",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "57h00m0"
+	},
+	{
+		"name": "Seel",
+		"number": "#086",
+		"shinyReleased": 1,
+		"slug": "seel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "003bjjp"
+	},
+	{
+		"name": "Dewgong",
+		"number": "#087",
+		"shinyReleased": 1,
+		"slug": "dewgong",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1egc2dn"
+	},
+	{
+		"name": "Grimer",
+		"number": "#088",
+		"shinyReleased": 1,
+		"slug": "grimer",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "54s9vu3"
+	},
+	{
+		"name": "Grimer",
+		"number": "#088",
+		"shinyReleased": 1,
+		"slug": "grimer-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "5krmmln"
+	},
+	{
+		"name": "Muk",
+		"number": "#089",
+		"shinyReleased": 1,
+		"slug": "muk",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "00039u3"
+	},
+	{
+		"name": "Muk",
+		"number": "#089",
+		"shinyReleased": 1,
+		"slug": "muk-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "04pmisf"
+	},
+	{
+		"name": "Shellder",
+		"number": "#090",
+		"shinyReleased": 1,
+		"slug": "shellder",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4it5i0u"
+	},
+	{
+		"name": "Cloyster",
+		"number": "#091",
+		"shinyReleased": 1,
+		"slug": "cloyster",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "10nsqb1"
+	},
+	{
+		"name": "Gastly",
+		"number": "#092",
+		"shinyReleased": 1,
+		"slug": "gastly",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "55avq3n"
+	},
+	{
+		"name": "Haunter",
+		"number": "#093",
+		"shinyReleased": 1,
+		"slug": "haunter",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0kr59cf"
+	},
+	{
+		"name": "Gengar",
+		"number": "#094",
+		"shinyReleased": 1,
+		"slug": "gengar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "557k0jn"
+	},
+	{
+		"name": "Onix",
+		"number": "#095",
+		"shinyReleased": 1,
+		"slug": "onix",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "00387qe"
+	},
+	{
+		"name": "Drowzee",
+		"number": "#096",
+		"shinyReleased": 1,
+		"slug": "drowzee",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1pcnev4"
+	},
+	{
+		"name": "Hypno",
+		"number": "#097",
+		"shinyReleased": 1,
+		"slug": "hypno",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02v4fs0"
+	},
+	{
+		"name": "Krabby",
+		"number": "#098",
+		"shinyReleased": 1,
+		"slug": "krabby",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "51faqf0"
+	},
+	{
+		"name": "Kingler",
+		"number": "#099",
+		"shinyReleased": 1,
+		"slug": "kingler",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4l5jl6t"
+	},
+	{
+		"name": "Voltorb",
+		"number": "#100",
+		"shinyReleased": 1,
+		"slug": "voltorb",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0ir349u"
+	},
+	{
+		"name": "Voltorb",
+		"number": "#100",
+		"shinyReleased": 0,
+		"slug": "voltorb-hisui",
+		"form": "hisui",
+		"isReleased": 1,
+		"switchGame": "PLA",
+		"id": "3jfgh2n"
+	},
+	{
+		"name": "Electrode",
+		"number": "#101",
+		"shinyReleased": 1,
+		"slug": "electrode",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "3g5o1cd"
+	},
+	{
+		"name": "Electrode",
+		"number": "#101",
+		"shinyReleased": 0,
+		"slug": "electrode-hisui",
+		"form": "hisui",
+		"isReleased": 1,
+		"switchGame": "PLA",
+		"id": "0g0g0b6"
+	},
+	{
+		"name": "Exeggcute",
+		"number": "#102",
+		"shinyReleased": 1,
+		"slug": "exeggcute",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "32fv5ul"
+	},
+	{
+		"name": "Exeggutor",
+		"number": "#103",
+		"shinyReleased": 1,
+		"slug": "exeggutor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "32gfghk"
+	},
+	{
+		"name": "Exeggutor",
+		"number": "#103",
+		"shinyReleased": 1,
+		"slug": "exeggutor-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4msc3a0"
+	},
+	{
+		"name": "Cubone",
+		"number": "#104",
+		"shinyReleased": 1,
+		"slug": "cubone",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5872ge9"
+	},
+	{
+		"name": "Marowak",
+		"number": "#105",
+		"shinyReleased": 1,
+		"slug": "marowak",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0p0g1jg"
+	},
+	{
+		"name": "Marowak",
+		"number": "#105",
+		"shinyReleased": 1,
+		"slug": "marowak-alola",
+		"form": "alola",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1k7id3s"
+	},
+	{
+		"name": "Hitmonlee",
+		"number": "#106",
+		"shinyReleased": 1,
+		"slug": "hitmonlee",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "27smq6j"
+	},
+	{
+		"name": "Hitmonchan",
+		"number": "#107",
+		"shinyReleased": 1,
+		"slug": "hitmonchan",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6b64mkk"
+	},
+	{
+		"name": "Lickitung",
+		"number": "#108",
+		"shinyReleased": 1,
+		"slug": "lickitung",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6j2gat1"
+	},
+	{
+		"name": "Koffing",
+		"number": "#109",
+		"shinyReleased": 1,
+		"slug": "koffing",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4g8ruu1"
+	},
+	{
+		"name": "Weezing",
+		"number": "#110",
+		"shinyReleased": 1,
+		"slug": "weezing",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "14iel7v"
+	},
+	{
+		"name": "Weezing",
+		"number": "#110",
+		"shinyReleased": 1,
+		"slug": "weezing-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0fl171l"
+	},
+	{
+		"name": "Rhyhorn",
+		"number": "#111",
+		"shinyReleased": 1,
+		"slug": "rhyhorn",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "13dgt86"
+	},
+	{
+		"name": "Rhydon",
+		"number": "#112",
+		"shinyReleased": 1,
+		"slug": "rhydon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4roatkv"
+	},
+	{
+		"name": "Chansey",
+		"number": "#113",
+		"shinyReleased": 1,
+		"slug": "chansey",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0m0n3ul"
+	},
+	{
+		"name": "Tangela",
+		"number": "#114",
+		"shinyReleased": 1,
+		"slug": "tangela",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2i1eofk"
+	},
+	{
+		"name": "Kangaskhan",
+		"number": "#115",
+		"shinyReleased": 1,
+		"slug": "kangaskhan",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4fuvc1k"
+	},
+	{
+		"name": "Horsea",
+		"number": "#116",
+		"shinyReleased": 1,
+		"slug": "horsea",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "543cfur"
+	},
+	{
+		"name": "Seadra",
+		"number": "#117",
+		"shinyReleased": 1,
+		"slug": "seadra",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4r0bj8r"
+	},
+	{
+		"name": "Goldeen",
+		"number": "#118",
+		"shinyReleased": 1,
+		"slug": "goldeen",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "062pare"
+	},
+	{
+		"name": "Seaking",
+		"number": "#119",
+		"shinyReleased": 1,
+		"slug": "seaking",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1qkue36"
+	},
+	{
+		"name": "Staryu",
+		"number": "#120",
+		"shinyReleased": 1,
+		"slug": "staryu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qj4doh"
+	},
+	{
+		"name": "Starmie",
+		"number": "#121",
+		"shinyReleased": 1,
+		"slug": "starmie",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "27em9ln"
+	},
+	{
+		"name": "Mr. Mime",
+		"number": "#122",
+		"shinyReleased": 1,
+		"slug": "mr-mime",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "15jptqs"
+	},
+	{
+		"name": "Mr. Mime",
+		"number": "#122",
+		"shinyReleased": 0,
+		"slug": "mr-mime-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6cjfepd"
+	},
+	{
+		"name": "Scyther",
+		"number": "#123",
+		"shinyReleased": 1,
+		"slug": "scyther",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1pjnjea"
+	},
+	{
+		"name": "Jynx",
+		"number": "#124",
+		"shinyReleased": 1,
+		"slug": "jynx",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "00340qp"
+	},
+	{
+		"name": "Electabuzz",
+		"number": "#125",
+		"shinyReleased": 1,
+		"slug": "electabuzz",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7at12bq"
+	},
+	{
+		"name": "Magmar",
+		"number": "#126",
+		"shinyReleased": 1,
+		"slug": "magmar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "507gp6k"
+	},
+	{
+		"name": "Pinsir",
+		"number": "#127",
+		"shinyReleased": 1,
+		"slug": "pinsir",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4tebm6o"
+	},
+	{
+		"name": "Tauros",
+		"number": "#128",
+		"shinyReleased": 1,
+		"slug": "tauros",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4q801mh"
+	},
+	{
+		"name": "Magikarp",
+		"number": "#129",
+		"shinyReleased": 1,
+		"slug": "magikarp",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "422d1rl"
+	},
+	{
+		"name": "Gyarados",
+		"number": "#130",
+		"shinyReleased": 1,
+		"slug": "gyarados",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "63plhsl"
+	},
+	{
+		"name": "Lapras",
+		"number": "#131",
+		"shinyReleased": 1,
+		"slug": "lapras",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "512i4qm"
+	},
+	{
+		"name": "Ditto",
+		"number": "#132",
+		"shinyReleased": 1,
+		"slug": "ditto",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02r5aqa"
+	},
+	{
+		"name": "Eevee",
+		"number": "#133",
+		"shinyReleased": 1,
+		"slug": "eevee",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02rttnm"
+	},
+	{
+		"name": "Vaporeon",
+		"number": "#134",
+		"shinyReleased": 1,
+		"slug": "vaporeon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56oh2u3"
+	},
+	{
+		"name": "Jolteon",
+		"number": "#135",
+		"shinyReleased": 1,
+		"slug": "jolteon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2led92n"
+	},
+	{
+		"name": "Flareon",
+		"number": "#136",
+		"shinyReleased": 1,
+		"slug": "flareon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4n6pfei"
+	},
+	{
+		"name": "Porygon",
+		"number": "#137",
+		"shinyReleased": 1,
+		"slug": "porygon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4blq7dv"
+	},
+	{
+		"name": "Omanyte",
+		"number": "#138",
+		"shinyReleased": 1,
+		"slug": "omanyte",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2nltahv"
+	},
+	{
+		"name": "Omastar",
+		"number": "#139",
+		"shinyReleased": 1,
+		"slug": "omastar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2nm1mol"
+	},
+	{
+		"name": "Kabuto",
+		"number": "#140",
+		"shinyReleased": 1,
+		"slug": "kabuto",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "51u8esr"
+	},
+	{
+		"name": "Kabutops",
+		"number": "#141",
+		"shinyReleased": 1,
+		"slug": "kabutops",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0i3oib7"
+	},
+	{
+		"name": "Aerodactyl",
+		"number": "#142",
+		"shinyReleased": 1,
+		"slug": "aerodactyl",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "87egogt"
+	},
+	{
+		"name": "Snorlax",
+		"number": "#143",
+		"shinyReleased": 1,
+		"slug": "snorlax",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "22n6lr5"
+	},
+	{
+		"name": "Articuno",
+		"number": "#144",
+		"shinyReleased": 1,
+		"slug": "articuno",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "54ju2n6"
+	},
+	{
+		"name": "Articuno",
+		"number": "#144",
+		"shinyReleased": 0,
+		"slug": "articuno-galar",
+		"form": "galar",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1t98g6f"
+	},
+	{
+		"name": "Zapdos",
+		"number": "#145",
+		"shinyReleased": 1,
+		"slug": "zapdos",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4l4arc0"
+	},
+	{
+		"name": "Zapdos",
+		"number": "#145",
+		"shinyReleased": 0,
+		"slug": "zapdos-galar",
+		"form": "galar",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "00dvedl"
+	},
+	{
+		"name": "Moltres",
+		"number": "#146",
+		"shinyReleased": 1,
+		"slug": "moltres",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "14pj1dm"
+	},
+	{
+		"name": "Moltres",
+		"number": "#146",
+		"shinyReleased": 0,
+		"slug": "moltres-galar",
+		"form": "galar",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1uv69tc"
+	},
+	{
+		"name": "Dratini",
+		"number": "#147",
+		"shinyReleased": 1,
+		"slug": "dratini",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1p09lo3"
+	},
+	{
+		"name": "Dragonair",
+		"number": "#148",
+		"shinyReleased": 1,
+		"slug": "dragonair",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "48quod8"
+	},
+	{
+		"name": "Dragonite",
+		"number": "#149",
+		"shinyReleased": 1,
+		"slug": "dragonite",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "48qugio"
+	},
+	{
+		"name": "Mewtwo",
+		"number": "#150",
+		"shinyReleased": 1,
+		"slug": "mewtwo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "503h8vi"
+	},
+	{
+		"name": "Mew",
+		"number": "#151",
+		"shinyReleased": 1,
+		"slug": "mew",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "00039ev"
+	},
+	{
+		"name": "Chikorita",
+		"number": "#152",
+		"shinyReleased": 1,
+		"slug": "chikorita",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "3skf6vc"
+	},
+	{
+		"name": "Bayleef",
+		"number": "#153",
+		"shinyReleased": 1,
+		"slug": "bayleef",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "49nn08b"
+	},
+	{
+		"name": "Meganium",
+		"number": "#154",
+		"shinyReleased": 1,
+		"slug": "meganium",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4ofpmnq"
+	},
+	{
+		"name": "Cyndaquil",
+		"number": "#155",
+		"shinyReleased": 1,
+		"slug": "cyndaquil",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4ifpfo3"
+	},
+	{
+		"name": "Quilava",
+		"number": "#156",
+		"shinyReleased": 1,
+		"slug": "quilava",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0jk2np5"
+	},
+	{
+		"name": "Typhlosion",
+		"number": "#157",
+		"shinyReleased": 1,
+		"slug": "typhlosion",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "65re7ua"
+	},
+	{
+		"name": "Typhlosion",
+		"number": "#157",
+		"shinyReleased": 0,
+		"slug": "typhlosion-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "4jnvgfh"
+	},
+	{
+		"name": "Totodile",
+		"number": "#158",
+		"shinyReleased": 1,
+		"slug": "totodile",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4oud50b"
+	},
+	{
+		"name": "Croconaw",
+		"number": "#159",
+		"shinyReleased": 1,
+		"slug": "croconaw",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6158857"
+	},
+	{
+		"name": "Feraligatr",
+		"number": "#160",
+		"shinyReleased": 1,
+		"slug": "feraligatr",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "8fvenrs"
+	},
+	{
+		"name": "Sentret",
+		"number": "#161",
+		"shinyReleased": 1,
+		"slug": "sentret",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1r0l8g9"
+	},
+	{
+		"name": "Furret",
+		"number": "#162",
+		"shinyReleased": 1,
+		"slug": "furret",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "55kmpu1"
+	},
+	{
+		"name": "Hoothoot",
+		"number": "#163",
+		"shinyReleased": 1,
+		"slug": "hoothoot",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4cb92t7"
+	},
+	{
+		"name": "Noctowl",
+		"number": "#164",
+		"shinyReleased": 1,
+		"slug": "noctowl",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1v01p2i"
+	},
+	{
+		"name": "Ledyba",
+		"number": "#165",
+		"shinyReleased": 1,
+		"slug": "ledyba",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "50vc3ri"
+	},
+	{
+		"name": "Ledian",
+		"number": "#166",
+		"shinyReleased": 1,
+		"slug": "ledian",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "50vcisk"
+	},
+	{
+		"name": "Spinarak",
+		"number": "#167",
+		"shinyReleased": 1,
+		"slug": "spinarak",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5rrca52"
+	},
+	{
+		"name": "Ariados",
+		"number": "#168",
+		"shinyReleased": 1,
+		"slug": "ariados",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "39rkasv"
+	},
+	{
+		"name": "Crobat",
+		"number": "#169",
+		"shinyReleased": 1,
+		"slug": "crobat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "589bkea"
+	},
+	{
+		"name": "Chinchou",
+		"number": "#170",
+		"shinyReleased": 1,
+		"slug": "chinchou",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6efk2ta"
+	},
+	{
+		"name": "Lanturn",
+		"number": "#171",
+		"shinyReleased": 1,
+		"slug": "lanturn",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "41h8kj9"
+	},
+	{
+		"name": "Pichu",
+		"number": "#172",
+		"shinyReleased": 1,
+		"slug": "pichu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "035n10n"
+	},
+	{
+		"name": "Cleffa",
+		"number": "#173",
+		"shinyReleased": 1,
+		"slug": "cleffa",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "58etmnq"
+	},
+	{
+		"name": "Igglybuff",
+		"number": "#174",
+		"shinyReleased": 1,
+		"slug": "igglybuff",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2hmuet9"
+	},
+	{
+		"name": "Togepi",
+		"number": "#175",
+		"shinyReleased": 1,
+		"slug": "togepi",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4ps2itd"
+	},
+	{
+		"name": "Togetic",
+		"number": "#176",
+		"shinyReleased": 1,
+		"slug": "togetic",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "526g6la"
+	},
+	{
+		"name": "Natu",
+		"number": "#177",
+		"shinyReleased": 1,
+		"slug": "natu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0036urk"
+	},
+	{
+		"name": "Xatu",
+		"number": "#178",
+		"shinyReleased": 1,
+		"slug": "xatu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "003g1pa"
+	},
+	{
+		"name": "Mareep",
+		"number": "#179",
+		"shinyReleased": 1,
+		"slug": "mareep",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "50770id"
+	},
+	{
+		"name": "Flaaffy",
+		"number": "#180",
+		"shinyReleased": 1,
+		"slug": "flaaffy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4n78tbc"
+	},
+	{
+		"name": "Ampharos",
+		"number": "#181",
+		"shinyReleased": 1,
+		"slug": "ampharos",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5ca1886"
+	},
+	{
+		"name": "Bellossom",
+		"number": "#182",
+		"shinyReleased": 1,
+		"slug": "bellossom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4p3gdfl"
+	},
+	{
+		"name": "Marill",
+		"number": "#183",
+		"shinyReleased": 1,
+		"slug": "marill",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5076sjk"
+	},
+	{
+		"name": "Azumarill",
+		"number": "#184",
+		"shinyReleased": 1,
+		"slug": "azumarill",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5hvpr0o"
+	},
+	{
+		"name": "Sudowoodo",
+		"number": "#185",
+		"shinyReleased": 1,
+		"slug": "sudowoodo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "21c308l"
+	},
+	{
+		"name": "Politoed",
+		"number": "#186",
+		"shinyReleased": 1,
+		"slug": "politoed",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0ga1ggm"
+	},
+	{
+		"name": "Hoppip",
+		"number": "#187",
+		"shinyReleased": 1,
+		"slug": "hoppip",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "543ecqh"
+	},
+	{
+		"name": "Skiploom",
+		"number": "#188",
+		"shinyReleased": 1,
+		"slug": "skiploom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6018aqv"
+	},
+	{
+		"name": "Jumpluff",
+		"number": "#189",
+		"shinyReleased": 1,
+		"slug": "jumpluff",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "87iptm8"
+	},
+	{
+		"name": "Aipom",
+		"number": "#190",
+		"shinyReleased": 1,
+		"slug": "aipom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02ogl96"
+	},
+	{
+		"name": "Sunkern",
+		"number": "#191",
+		"shinyReleased": 1,
+		"slug": "sunkern",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "28l7pb2"
+	},
+	{
+		"name": "Sunflora",
+		"number": "#192",
+		"shinyReleased": 1,
+		"slug": "sunflora",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5jhl2jj"
+	},
+	{
+		"name": "Yanma",
+		"number": "#193",
+		"shinyReleased": 1,
+		"slug": "yanma",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "03ddnjq"
+	},
+	{
+		"name": "Wooper",
+		"number": "#194",
+		"shinyReleased": 1,
+		"slug": "wooper",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4n9ttmp"
+	},
+	{
+		"name": "Quagsire",
+		"number": "#195",
+		"shinyReleased": 1,
+		"slug": "quagsire",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56fld5c"
+	},
+	{
+		"name": "Espeon",
+		"number": "#196",
+		"shinyReleased": 1,
+		"slug": "espeon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56hr1tt"
+	},
+	{
+		"name": "Umbreon",
+		"number": "#197",
+		"shinyReleased": 1,
+		"slug": "umbreon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "49iol73"
+	},
+	{
+		"name": "Murkrow",
+		"number": "#198",
+		"shinyReleased": 1,
+		"slug": "murkrow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1a2e42p"
+	},
+	{
+		"name": "Slowking",
+		"number": "#199",
+		"shinyReleased": 1,
+		"slug": "slowking",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "508tgn7"
+	},
+	{
+		"name": "Slowking",
+		"number": "#199",
+		"shinyReleased": 0,
+		"slug": "slowking-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qffcjh"
+	},
+	{
+		"name": "Misdreavus",
+		"number": "#200",
+		"shinyReleased": 1,
+		"slug": "misdreavus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "484qokc"
+	},
+	{
+		"name": "Unown",
+		"number": "#201",
+		"shinyReleased": 1,
+		"slug": "unown",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "03a8rid"
+	},
+	{
+		"name": "Wobbuffet",
+		"number": "#202",
+		"shinyReleased": 1,
+		"slug": "wobbuffet",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4dovblj"
+	},
+	{
+		"name": "Girafarig",
+		"number": "#203",
+		"shinyReleased": 1,
+		"slug": "girafarig",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "61k8ibr"
+	},
+	{
+		"name": "Pineco",
+		"number": "#204",
+		"shinyReleased": 1,
+		"slug": "pineco",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4tec3h3"
+	},
+	{
+		"name": "Forretress",
+		"number": "#205",
+		"shinyReleased": 1,
+		"slug": "forretress",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0haq2ob"
+	},
+	{
+		"name": "Dunsparce",
+		"number": "#206",
+		"shinyReleased": 1,
+		"slug": "dunsparce",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "3l2ff3d"
+	},
+	{
+		"name": "Gligar",
+		"number": "#207",
+		"shinyReleased": 1,
+		"slug": "gligar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "551j8ub"
+	},
+	{
+		"name": "Steelix",
+		"number": "#208",
+		"shinyReleased": 1,
+		"slug": "steelix",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "27hr61q"
+	},
+	{
+		"name": "Snubbull",
+		"number": "#209",
+		"shinyReleased": 1,
+		"slug": "snubbull",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "76r2464"
+	},
+	{
+		"name": "Granbull",
+		"number": "#210",
+		"shinyReleased": 1,
+		"slug": "granbull",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02u3rrb"
+	},
+	{
+		"name": "Qwilfish",
+		"number": "#211",
+		"shinyReleased": 1,
+		"slug": "qwilfish",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0lbi4t1"
+	},
+	{
+		"name": "Qwilfish",
+		"number": "#211",
+		"shinyReleased": 0,
+		"slug": "qwilfish-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "7b21js5"
+	},
+	{
+		"name": "Scizor",
+		"number": "#212",
+		"shinyReleased": 1,
+		"slug": "scizor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4r1s1mr"
+	},
+	{
+		"name": "Shuckle",
+		"number": "#213",
+		"shinyReleased": 1,
+		"slug": "shuckle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1to7v51"
+	},
+	{
+		"name": "Heracross",
+		"number": "#214",
+		"shinyReleased": 1,
+		"slug": "heracross",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1olhmuk"
+	},
+	{
+		"name": "Sneasel",
+		"number": "#215",
+		"shinyReleased": 1,
+		"slug": "sneasel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "22dtj63"
+	},
+	{
+		"name": "Sneasel",
+		"number": "#215",
+		"shinyReleased": 0,
+		"slug": "sneasel-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "3tqk20s"
+	},
+	{
+		"name": "Teddiursa",
+		"number": "#216",
+		"shinyReleased": 1,
+		"slug": "teddiursa",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "22mmkc3"
+	},
+	{
+		"name": "Ursaring",
+		"number": "#217",
+		"shinyReleased": 1,
+		"slug": "ursaring",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4mscud4"
+	},
+	{
+		"name": "Slugma",
+		"number": "#218",
+		"shinyReleased": 1,
+		"slug": "slugma",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qpk1k0"
+	},
+	{
+		"name": "Magcargo",
+		"number": "#219",
+		"shinyReleased": 1,
+		"slug": "magcargo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "427uodm"
+	},
+	{
+		"name": "Swinub",
+		"number": "#220",
+		"shinyReleased": 1,
+		"slug": "swinub",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qg8n99"
+	},
+	{
+		"name": "Piloswine",
+		"number": "#221",
+		"shinyReleased": 1,
+		"slug": "piloswine",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "27668q0"
+	},
+	{
+		"name": "Corsola",
+		"number": "#222",
+		"shinyReleased": 1,
+		"slug": "corsola",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0seugqn"
+	},
+	{
+		"name": "Corsola",
+		"number": "#222",
+		"shinyReleased": 0,
+		"slug": "corsola-galar",
+		"form": "galar",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0c14q4d"
+	},
+	{
+		"name": "Remoraid",
+		"number": "#223",
+		"shinyReleased": 1,
+		"slug": "remoraid",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4f95qv0"
+	},
+	{
+		"name": "Octillery",
+		"number": "#224",
+		"shinyReleased": 1,
+		"slug": "octillery",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4jm9ei3"
+	},
+	{
+		"name": "Delibird",
+		"number": "#225",
+		"shinyReleased": 1,
+		"slug": "delibird",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "77f7r48"
+	},
+	{
+		"name": "Mantine",
+		"number": "#226",
+		"shinyReleased": 1,
+		"slug": "mantine",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0ot3eq6"
+	},
+	{
+		"name": "Skarmory",
+		"number": "#227",
+		"shinyReleased": 1,
+		"slug": "skarmory",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "66psj4d"
+	},
+	{
+		"name": "Houndour",
+		"number": "#228",
+		"shinyReleased": 1,
+		"slug": "houndour",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "47crldn"
+	},
+	{
+		"name": "Houndoom",
+		"number": "#229",
+		"shinyReleased": 1,
+		"slug": "houndoom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "47crljm"
+	},
+	{
+		"name": "Kingdra",
+		"number": "#230",
+		"shinyReleased": 1,
+		"slug": "kingdra",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4l5jsb3"
+	},
+	{
+		"name": "Phanpy",
+		"number": "#231",
+		"shinyReleased": 1,
+		"slug": "phanpy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4tfjqoh"
+	},
+	{
+		"name": "Donphan",
+		"number": "#232",
+		"shinyReleased": 1,
+		"slug": "donphan",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1mpn9v8"
+	},
+	{
+		"name": "Porygon2",
+		"number": "#233",
+		"shinyReleased": 1,
+		"slug": "porygon2",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0lripfi"
+	},
+	{
+		"name": "Stantler",
+		"number": "#234",
+		"shinyReleased": 1,
+		"slug": "stantler",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6ormssc"
+	},
+	{
+		"name": "Smeargle",
+		"number": "#235",
+		"shinyReleased": 1,
+		"slug": "smeargle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4eunn0r"
+	},
+	{
+		"name": "Tyrogue",
+		"number": "#236",
+		"shinyReleased": 1,
+		"slug": "tyrogue",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4pbghca"
+	},
+	{
+		"name": "Hitmontop",
+		"number": "#237",
+		"shinyReleased": 1,
+		"slug": "hitmontop",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "27sn20s"
+	},
+	{
+		"name": "Smoochum",
+		"number": "#238",
+		"shinyReleased": 1,
+		"slug": "smoochum",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "461pqc8"
+	},
+	{
+		"name": "Elekid",
+		"number": "#239",
+		"shinyReleased": 1,
+		"slug": "elekid",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56oa5kn"
+	},
+	{
+		"name": "Magby",
+		"number": "#240",
+		"shinyReleased": 1,
+		"slug": "magby",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "032ra7a"
+	},
+	{
+		"name": "Miltank",
+		"number": "#241",
+		"shinyReleased": 1,
+		"slug": "miltank",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0vlocpq"
+	},
+	{
+		"name": "Blissey",
+		"number": "#242",
+		"shinyReleased": 1,
+		"slug": "blissey",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "40p8hoc"
+	},
+	{
+		"name": "Raikou",
+		"number": "#243",
+		"shinyReleased": 1,
+		"slug": "raikou",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4ruuhm8"
+	},
+	{
+		"name": "Entei",
+		"number": "#244",
+		"shinyReleased": 1,
+		"slug": "entei",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02s61mf"
+	},
+	{
+		"name": "Suicune",
+		"number": "#245",
+		"shinyReleased": 1,
+		"slug": "suicune",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "28gk23g"
+	},
+	{
+		"name": "Larvitar",
+		"number": "#246",
+		"shinyReleased": 1,
+		"slug": "larvitar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5c8nlra"
+	},
+	{
+		"name": "Pupitar",
+		"number": "#247",
+		"shinyReleased": 1,
+		"slug": "pupitar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "46k6juo"
+	},
+	{
+		"name": "Tyranitar",
+		"number": "#248",
+		"shinyReleased": 1,
+		"slug": "tyranitar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "21bp38m"
+	},
+	{
+		"name": "Lugia",
+		"number": "#249",
+		"shinyReleased": 1,
+		"slug": "lugia",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "032hacm"
+	},
+	{
+		"name": "Ho-Oh",
+		"number": "#250",
+		"shinyReleased": 1,
+		"slug": "ho-oh",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02upe2v"
+	},
+	{
+		"name": "Celebi",
+		"number": "#251",
+		"shinyReleased": 1,
+		"slug": "celebi",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "58ksl8t"
+	},
+	{
+		"name": "Treecko",
+		"number": "#252",
+		"shinyReleased": 1,
+		"slug": "treecko",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4vmbvqm"
+	},
+	{
+		"name": "Grovyle",
+		"number": "#253",
+		"shinyReleased": 1,
+		"slug": "grovyle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "08nrtj0"
+	},
+	{
+		"name": "Sceptile",
+		"number": "#254",
+		"shinyReleased": 1,
+		"slug": "sceptile",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4n1bmum"
+	},
+	{
+		"name": "Torchic",
+		"number": "#255",
+		"shinyReleased": 1,
+		"slug": "torchic",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "51ssbf9"
+	},
+	{
+		"name": "Combusken",
+		"number": "#256",
+		"shinyReleased": 1,
+		"slug": "combusken",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2ag4b4l"
+	},
+	{
+		"name": "Blaziken",
+		"number": "#257",
+		"shinyReleased": 1,
+		"slug": "blaziken",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4v3qchh"
+	},
+	{
+		"name": "Mudkip",
+		"number": "#258",
+		"shinyReleased": 1,
+		"slug": "mudkip",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4vlvsj9"
+	},
+	{
+		"name": "Marshtomp",
+		"number": "#259",
+		"shinyReleased": 1,
+		"slug": "marshtomp",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4kte4ve"
+	},
+	{
+		"name": "Swampert",
+		"number": "#260",
+		"shinyReleased": 1,
+		"slug": "swampert",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "89hhgro"
+	},
+	{
+		"name": "Poochyena",
+		"number": "#261",
+		"shinyReleased": 1,
+		"slug": "poochyena",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5sbergb"
+	},
+	{
+		"name": "Mightyena",
+		"number": "#262",
+		"shinyReleased": 1,
+		"slug": "mightyena",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "2uj7cmm"
+	},
+	{
+		"name": "Zigzagoon",
+		"number": "#263",
+		"shinyReleased": 1,
+		"slug": "zigzagoon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1h51ic6"
+	},
+	{
+		"name": "Zigzagoon",
+		"number": "#263",
+		"shinyReleased": 1,
+		"slug": "zigzagoon-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7907c43"
+	},
+	{
+		"name": "Linoone",
+		"number": "#264",
+		"shinyReleased": 1,
+		"slug": "linoone",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "05905d8"
+	},
+	{
+		"name": "Linoone",
+		"number": "#264",
+		"shinyReleased": 1,
+		"slug": "linoone-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "8qdj1f1"
+	},
+	{
+		"name": "Wurmple",
+		"number": "#265",
+		"shinyReleased": 1,
+		"slug": "wurmple",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1iicgdg"
+	},
+	{
+		"name": "Silcoon",
+		"number": "#266",
+		"shinyReleased": 1,
+		"slug": "silcoon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1ubk491"
+	},
+	{
+		"name": "Beautifly",
+		"number": "#267",
+		"shinyReleased": 1,
+		"slug": "beautifly",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5k7uqro"
+	},
+	{
+		"name": "Cascoon",
+		"number": "#268",
+		"shinyReleased": 1,
+		"slug": "cascoon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0gh4f50"
+	},
+	{
+		"name": "Dustox",
+		"number": "#269",
+		"shinyReleased": 1,
+		"slug": "dustox",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "57b96v4"
+	},
+	{
+		"name": "Lotad",
+		"number": "#270",
+		"shinyReleased": 1,
+		"slug": "lotad",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "032c7pk"
+	},
+	{
+		"name": "Lombre",
+		"number": "#271",
+		"shinyReleased": 1,
+		"slug": "lombre",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50maobk"
+	},
+	{
+		"name": "Ludicolo",
+		"number": "#272",
+		"shinyReleased": 1,
+		"slug": "ludicolo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "57iq322"
+	},
+	{
+		"name": "Seedot",
+		"number": "#273",
+		"shinyReleased": 1,
+		"slug": "seedot",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4r07uv9"
+	},
+	{
+		"name": "Nuzleaf",
+		"number": "#274",
+		"shinyReleased": 1,
+		"slug": "nuzleaf",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "24nsibh"
+	},
+	{
+		"name": "Shiftry",
+		"number": "#275",
+		"shinyReleased": 1,
+		"slug": "shiftry",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1tdooi9"
+	},
+	{
+		"name": "Taillow",
+		"number": "#276",
+		"shinyReleased": 1,
+		"slug": "taillow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "2ht6j84"
+	},
+	{
+		"name": "Swellow",
+		"number": "#277",
+		"shinyReleased": 1,
+		"slug": "swellow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "2a3ukb9"
+	},
+	{
+		"name": "Wingull",
+		"number": "#278",
+		"shinyReleased": 1,
+		"slug": "wingull",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "187256a"
+	},
+	{
+		"name": "Pelipper",
+		"number": "#279",
+		"shinyReleased": 1,
+		"slug": "pelipper",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "07q18uv"
+	},
+	{
+		"name": "Ralts",
+		"number": "#280",
+		"shinyReleased": 1,
+		"slug": "ralts",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0378cqs"
+	},
+	{
+		"name": "Kirlia",
+		"number": "#281",
+		"shinyReleased": 1,
+		"slug": "kirlia",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "51mon6f"
+	},
+	{
+		"name": "Gardevoir",
+		"number": "#282",
+		"shinyReleased": 1,
+		"slug": "gardevoir",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "11cogjr"
+	},
+	{
+		"name": "Surskit",
+		"number": "#283",
+		"shinyReleased": 0,
+		"slug": "surskit",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "28ovuuj"
+	},
+	{
+		"name": "Masquerain",
+		"number": "#284",
+		"shinyReleased": 0,
+		"slug": "masquerain",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "016c6sm"
+	},
+	{
+		"name": "Shroomish",
+		"number": "#285",
+		"shinyReleased": 1,
+		"slug": "shroomish",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0g7ffee"
+	},
+	{
+		"name": "Breloom",
+		"number": "#286",
+		"shinyReleased": 1,
+		"slug": "breloom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "046qchm"
+	},
+	{
+		"name": "Slakoth",
+		"number": "#287",
+		"shinyReleased": 1,
+		"slug": "slakoth",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "20k2f00"
+	},
+	{
+		"name": "Vigoroth",
+		"number": "#288",
+		"shinyReleased": 1,
+		"slug": "vigoroth",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "154rlmc"
+	},
+	{
+		"name": "Slaking",
+		"number": "#289",
+		"shinyReleased": 1,
+		"slug": "slaking",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "20k295v"
+	},
+	{
+		"name": "Nincada",
+		"number": "#290",
+		"shinyReleased": 1,
+		"slug": "nincada",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1q5dofe"
+	},
+	{
+		"name": "Ninjask",
+		"number": "#291",
+		"shinyReleased": 1,
+		"slug": "ninjask",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1q5k4j2"
+	},
+	{
+		"name": "Shedinja",
+		"number": "#292",
+		"shinyReleased": 0,
+		"slug": "shedinja",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4j49epf"
+	},
+	{
+		"name": "Whismur",
+		"number": "#293",
+		"shinyReleased": 1,
+		"slug": "whismur",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "177m7hf"
+	},
+	{
+		"name": "Loudred",
+		"number": "#294",
+		"shinyReleased": 1,
+		"slug": "loudred",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0aillvv"
+	},
+	{
+		"name": "Exploud",
+		"number": "#295",
+		"shinyReleased": 1,
+		"slug": "exploud",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2ovfunf"
+	},
+	{
+		"name": "Makuhita",
+		"number": "#296",
+		"shinyReleased": 1,
+		"slug": "makuhita",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "01l9dhc"
+	},
+	{
+		"name": "Hariyama",
+		"number": "#297",
+		"shinyReleased": 1,
+		"slug": "hariyama",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "03jugsc"
+	},
+	{
+		"name": "Azurill",
+		"number": "#298",
+		"shinyReleased": 1,
+		"slug": "azurill",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4eusa5c"
+	},
+	{
+		"name": "Nosepass",
+		"number": "#299",
+		"shinyReleased": 1,
+		"slug": "nosepass",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6hmk3cr"
+	},
+	{
+		"name": "Skitty",
+		"number": "#300",
+		"shinyReleased": 1,
+		"slug": "skitty",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qqqo5n"
+	},
+	{
+		"name": "Delcatty",
+		"number": "#301",
+		"shinyReleased": 1,
+		"slug": "delcatty",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "77khh2f"
+	},
+	{
+		"name": "Sableye",
+		"number": "#302",
+		"shinyReleased": 1,
+		"slug": "sableye",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1n8kl0p"
+	},
+	{
+		"name": "Mawile",
+		"number": "#303",
+		"shinyReleased": 1,
+		"slug": "mawile",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5072b50"
+	},
+	{
+		"name": "Aron",
+		"number": "#304",
+		"shinyReleased": 1,
+		"slug": "aron",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "002rkeg"
+	},
+	{
+		"name": "Lairon",
+		"number": "#305",
+		"shinyReleased": 1,
+		"slug": "lairon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "512og22"
+	},
+	{
+		"name": "Aggron",
+		"number": "#306",
+		"shinyReleased": 1,
+		"slug": "aggron",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5a9rqmf"
+	},
+	{
+		"name": "Meditite",
+		"number": "#307",
+		"shinyReleased": 1,
+		"slug": "meditite",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qqfrls"
+	},
+	{
+		"name": "Medicham",
+		"number": "#308",
+		"shinyReleased": 1,
+		"slug": "medicham",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qqvboh"
+	},
+	{
+		"name": "Electrike",
+		"number": "#309",
+		"shinyReleased": 1,
+		"slug": "electrike",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "3g5nrv0"
+	},
+	{
+		"name": "Manectric",
+		"number": "#310",
+		"shinyReleased": 1,
+		"slug": "manectric",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4apkh3f"
+	},
+	{
+		"name": "Plusle",
+		"number": "#311",
+		"shinyReleased": 1,
+		"slug": "plusle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4tbgorc"
+	},
+	{
+		"name": "Minun",
+		"number": "#312",
+		"shinyReleased": 1,
+		"slug": "minun",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0332q3b"
+	},
+	{
+		"name": "Volbeat",
+		"number": "#313",
+		"shinyReleased": 1,
+		"slug": "volbeat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0iqieo9"
+	},
+	{
+		"name": "Illumise",
+		"number": "#314",
+		"shinyReleased": 1,
+		"slug": "illumise",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5a98kp5"
+	},
+	{
+		"name": "Roselia",
+		"number": "#315",
+		"shinyReleased": 1,
+		"slug": "roselia",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1978qml"
+	},
+	{
+		"name": "Gulpin",
+		"number": "#316",
+		"shinyReleased": 0,
+		"slug": "gulpin",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "54pik38"
+	},
+	{
+		"name": "Swalot",
+		"number": "#317",
+		"shinyReleased": 0,
+		"slug": "swalot",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qgg22b"
+	},
+	{
+		"name": "Carvanha",
+		"number": "#318",
+		"shinyReleased": 1,
+		"slug": "carvanha",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "008bn08"
+	},
+	{
+		"name": "Sharpedo",
+		"number": "#319",
+		"shinyReleased": 1,
+		"slug": "sharpedo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4m4vi3p"
+	},
+	{
+		"name": "Wailmer",
+		"number": "#320",
+		"shinyReleased": 1,
+		"slug": "wailmer",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "118c0ad"
+	},
+	{
+		"name": "Wailord",
+		"number": "#321",
+		"shinyReleased": 1,
+		"slug": "wailord",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "118c2ik"
+	},
+	{
+		"name": "Numel",
+		"number": "#322",
+		"shinyReleased": 1,
+		"slug": "numel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0349rld"
+	},
+	{
+		"name": "Camerupt",
+		"number": "#323",
+		"shinyReleased": 1,
+		"slug": "camerupt",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "44ek682"
+	},
+	{
+		"name": "Torkoal",
+		"number": "#324",
+		"shinyReleased": 0,
+		"slug": "torkoal",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "51skscp"
+	},
+	{
+		"name": "Spoink",
+		"number": "#325",
+		"shinyReleased": 1,
+		"slug": "spoink",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qm8mob"
+	},
+	{
+		"name": "Grumpig",
+		"number": "#326",
+		"shinyReleased": 1,
+		"slug": "grumpig",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "08ssifb"
+	},
+	{
+		"name": "Spinda",
+		"number": "#327",
+		"shinyReleased": 1,
+		"slug": "spinda",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qme0u0"
+	},
+	{
+		"name": "Trapinch",
+		"number": "#328",
+		"shinyReleased": 1,
+		"slug": "trapinch",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1670u7n"
+	},
+	{
+		"name": "Vibrava",
+		"number": "#329",
+		"shinyReleased": 1,
+		"slug": "vibrava",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0dectd9"
+	},
+	{
+		"name": "Flygon",
+		"number": "#330",
+		"shinyReleased": 1,
+		"slug": "flygon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "55sed6c"
+	},
+	{
+		"name": "Cacnea",
+		"number": "#331",
+		"shinyReleased": 0,
+		"slug": "cacnea",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "58ola2q"
+	},
+	{
+		"name": "Cacturne",
+		"number": "#332",
+		"shinyReleased": 0,
+		"slug": "cacturne",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4cibn8s"
+	},
+	{
+		"name": "Swablu",
+		"number": "#333",
+		"shinyReleased": 1,
+		"slug": "swablu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qggbhh"
+	},
+	{
+		"name": "Altaria",
+		"number": "#334",
+		"shinyReleased": 1,
+		"slug": "altaria",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "351gjhi"
+	},
+	{
+		"name": "Zangoose",
+		"number": "#335",
+		"shinyReleased": 1,
+		"slug": "zangoose",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "17210qi"
+	},
+	{
+		"name": "Seviper",
+		"number": "#336",
+		"shinyReleased": 1,
+		"slug": "seviper",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1r7cljo"
+	},
+	{
+		"name": "Lunatone",
+		"number": "#337",
+		"shinyReleased": 1,
+		"slug": "lunatone",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4v8b5sh"
+	},
+	{
+		"name": "Solrock",
+		"number": "#338",
+		"shinyReleased": 1,
+		"slug": "solrock",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "23frt7l"
+	},
+	{
+		"name": "Barboach",
+		"number": "#339",
+		"shinyReleased": 1,
+		"slug": "barboach",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5k6tuop"
+	},
+	{
+		"name": "Whiscash",
+		"number": "#340",
+		"shinyReleased": 1,
+		"slug": "whiscash",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5vhobkh"
+	},
+	{
+		"name": "Corphish",
+		"number": "#341",
+		"shinyReleased": 1,
+		"slug": "corphish",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4dj8lhv"
+	},
+	{
+		"name": "Crawdaunt",
+		"number": "#342",
+		"shinyReleased": 1,
+		"slug": "crawdaunt",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1qbi6cp"
+	},
+	{
+		"name": "Baltoy",
+		"number": "#343",
+		"shinyReleased": 1,
+		"slug": "baltoy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "59jmkee"
+	},
+	{
+		"name": "Claydol",
+		"number": "#344",
+		"shinyReleased": 1,
+		"slug": "claydol",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0pe7eq0"
+	},
+	{
+		"name": "Lileep",
+		"number": "#345",
+		"shinyReleased": 1,
+		"slug": "lileep",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50rkm8u"
+	},
+	{
+		"name": "Cradily",
+		"number": "#346",
+		"shinyReleased": 1,
+		"slug": "cradily",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0uheld4"
+	},
+	{
+		"name": "Anorith",
+		"number": "#347",
+		"shinyReleased": 1,
+		"slug": "anorith",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "36k68ud"
+	},
+	{
+		"name": "Armaldo",
+		"number": "#348",
+		"shinyReleased": 1,
+		"slug": "armaldo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "39v59ii"
+	},
+	{
+		"name": "Feebas",
+		"number": "#349",
+		"shinyReleased": 1,
+		"slug": "feebas",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "563619h"
+	},
+	{
+		"name": "Milotic",
+		"number": "#350",
+		"shinyReleased": 1,
+		"slug": "milotic",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0vlkd0f"
+	},
+	{
+		"name": "Castform",
+		"number": "#351",
+		"shinyReleased": 1,
+		"slug": "castform",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0121k43"
+	},
+	{
+		"name": "Kecleon",
+		"number": "#352",
+		"shinyReleased": 0,
+		"slug": "kecleon",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "BDSP",
+		"id": "4osc38u"
+	},
+	{
+		"name": "Shuppet",
+		"number": "#353",
+		"shinyReleased": 1,
+		"slug": "shuppet",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1tojtrf"
+	},
+	{
+		"name": "Banette",
+		"number": "#354",
+		"shinyReleased": 1,
+		"slug": "banette",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4a1iu0g"
+	},
+	{
+		"name": "Duskull",
+		"number": "#355",
+		"shinyReleased": 1,
+		"slug": "duskull",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1s1q7bc"
+	},
+	{
+		"name": "Dusclops",
+		"number": "#356",
+		"shinyReleased": 1,
+		"slug": "dusclops",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5qesdoo"
+	},
+	{
+		"name": "Tropius",
+		"number": "#357",
+		"shinyReleased": 0,
+		"slug": "tropius",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4vd7v3n"
+	},
+	{
+		"name": "Chimecho",
+		"number": "#358",
+		"shinyReleased": 1,
+		"slug": "chimecho",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6egejgh"
+	},
+	{
+		"name": "Absol",
+		"number": "#359",
+		"shinyReleased": 1,
+		"slug": "absol",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02oacef"
+	},
+	{
+		"name": "Wynaut",
+		"number": "#360",
+		"shinyReleased": 1,
+		"slug": "wynaut",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4n15dkb"
+	},
+	{
+		"name": "Snorunt",
+		"number": "#361",
+		"shinyReleased": 1,
+		"slug": "snorunt",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "22n6ult"
+	},
+	{
+		"name": "Glalie",
+		"number": "#362",
+		"shinyReleased": 1,
+		"slug": "glalie",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "551qcoj"
+	},
+	{
+		"name": "Spheal",
+		"number": "#363",
+		"shinyReleased": 1,
+		"slug": "spheal",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qmf6hq"
+	},
+	{
+		"name": "Sealeo",
+		"number": "#364",
+		"shinyReleased": 1,
+		"slug": "sealeo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4r0bc4o"
+	},
+	{
+		"name": "Walrein",
+		"number": "#365",
+		"shinyReleased": 1,
+		"slug": "walrein",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "11b5p3q"
+	},
+	{
+		"name": "Clamperl",
+		"number": "#366",
+		"shinyReleased": 1,
+		"slug": "clamperl",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0kevom4"
+	},
+	{
+		"name": "Huntail",
+		"number": "#367",
+		"shinyReleased": 1,
+		"slug": "huntail",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "15n6o6h"
+	},
+	{
+		"name": "Gorebyss",
+		"number": "#368",
+		"shinyReleased": 1,
+		"slug": "gorebyss",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5u4q8rd"
+	},
+	{
+		"name": "Relicanth",
+		"number": "#369",
+		"shinyReleased": 0,
+		"slug": "relicanth",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "063tlak"
+	},
+	{
+		"name": "Luvdisc",
+		"number": "#370",
+		"shinyReleased": 1,
+		"slug": "luvdisc",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0fnbop2"
+	},
+	{
+		"name": "Bagon",
+		"number": "#371",
+		"shinyReleased": 1,
+		"slug": "bagon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02p59v7"
+	},
+	{
+		"name": "Shelgon",
+		"number": "#372",
+		"shinyReleased": 1,
+		"slug": "shelgon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1tad3aa"
+	},
+	{
+		"name": "Salamence",
+		"number": "#373",
+		"shinyReleased": 1,
+		"slug": "salamence",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "3pud1il"
+	},
+	{
+		"name": "Beldum",
+		"number": "#374",
+		"shinyReleased": 1,
+		"slug": "beldum",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "59g6bpc"
+	},
+	{
+		"name": "Metang",
+		"number": "#375",
+		"shinyReleased": 1,
+		"slug": "metang",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "503kic1"
+	},
+	{
+		"name": "Metagross",
+		"number": "#376",
+		"shinyReleased": 1,
+		"slug": "metagross",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4vko950"
+	},
+	{
+		"name": "Regirock",
+		"number": "#377",
+		"shinyReleased": 1,
+		"slug": "regirock",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4ki8m65"
+	},
+	{
+		"name": "Regice",
+		"number": "#378",
+		"shinyReleased": 1,
+		"slug": "regice",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4rrfmk8"
+	},
+	{
+		"name": "Registeel",
+		"number": "#379",
+		"shinyReleased": 1,
+		"slug": "registeel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02aj94m"
+	},
+	{
+		"name": "Latias",
+		"number": "#380",
+		"shinyReleased": 1,
+		"slug": "latias",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "512eot3"
+	},
+	{
+		"name": "Latios",
+		"number": "#381",
+		"shinyReleased": 1,
+		"slug": "latios",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "512eofh"
+	},
+	{
+		"name": "Kyogre",
+		"number": "#382",
+		"shinyReleased": 1,
+		"slug": "kyogre",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "518oks6"
+	},
+	{
+		"name": "Groudon",
+		"number": "#383",
+		"shinyReleased": 1,
+		"slug": "groudon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "08nqcsi"
+	},
+	{
+		"name": "Rayquaza",
+		"number": "#384",
+		"shinyReleased": 1,
+		"slug": "rayquaza",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0h6nn5q"
+	},
+	{
+		"name": "Jirachi",
+		"number": "#385",
+		"shinyReleased": 0,
+		"slug": "jirachi",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2gfashm"
+	},
+	{
+		"name": "Deoxys",
+		"number": "#386",
+		"shinyReleased": 1,
+		"slug": "deoxys",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "57pfl9r"
+	},
+	{
+		"name": "Turtwig",
+		"number": "#387",
+		"shinyReleased": 1,
+		"slug": "turtwig",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4soi9sd"
+	},
+	{
+		"name": "Grotle",
+		"number": "#388",
+		"shinyReleased": 1,
+		"slug": "grotle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "54s4ajm"
+	},
+	{
+		"name": "Torterra",
+		"number": "#389",
+		"shinyReleased": 1,
+		"slug": "torterra",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qgie76"
+	},
+	{
+		"name": "Chimchar",
+		"number": "#390",
+		"shinyReleased": 1,
+		"slug": "chimchar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6egg970"
+	},
+	{
+		"name": "Monferno",
+		"number": "#391",
+		"shinyReleased": 1,
+		"slug": "monferno",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "49sk7nn"
+	},
+	{
+		"name": "Infernape",
+		"number": "#392",
+		"shinyReleased": 1,
+		"slug": "infernape",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0sm3l1m"
+	},
+	{
+		"name": "Piplup",
+		"number": "#393",
+		"shinyReleased": 1,
+		"slug": "piplup",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4tea27f"
+	},
+	{
+		"name": "Prinplup",
+		"number": "#394",
+		"shinyReleased": 1,
+		"slug": "prinplup",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "52ocuq1"
+	},
+	{
+		"name": "Empoleon",
+		"number": "#395",
+		"shinyReleased": 1,
+		"slug": "empoleon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6sb8ue0"
+	},
+	{
+		"name": "Starly",
+		"number": "#396",
+		"shinyReleased": 0,
+		"slug": "starly",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4qj4e50"
+	},
+	{
+		"name": "Staravia",
+		"number": "#397",
+		"shinyReleased": 0,
+		"slug": "staravia",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6oon4l0"
+	},
+	{
+		"name": "Staraptor",
+		"number": "#398",
+		"shinyReleased": 0,
+		"slug": "staraptor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "201dbtm"
+	},
+	{
+		"name": "Bidoof",
+		"number": "#399",
+		"shinyReleased": 1,
+		"slug": "bidoof",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "59csism"
+	},
+	{
+		"name": "Bibarel",
+		"number": "#400",
+		"shinyReleased": 1,
+		"slug": "bibarel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "43hr9vc"
+	},
+	{
+		"name": "Kricketot",
+		"number": "#401",
+		"shinyReleased": 1,
+		"slug": "kricketot",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "2e53scu"
+	},
+	{
+		"name": "Kricketune",
+		"number": "#402",
+		"shinyReleased": 1,
+		"slug": "kricketune",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "89179tc"
+	},
+	{
+		"name": "Shinx",
+		"number": "#403",
+		"shinyReleased": 1,
+		"slug": "shinx",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "038arbu"
+	},
+	{
+		"name": "Luxio",
+		"number": "#404",
+		"shinyReleased": 1,
+		"slug": "luxio",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "032hqbl"
+	},
+	{
+		"name": "Luxray",
+		"number": "#405",
+		"shinyReleased": 1,
+		"slug": "luxray",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50gn6i4"
+	},
+	{
+		"name": "Budew",
+		"number": "#406",
+		"shinyReleased": 1,
+		"slug": "budew",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02pncn3"
+	},
+	{
+		"name": "Roserade",
+		"number": "#407",
+		"shinyReleased": 1,
+		"slug": "roserade",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "41u8sq0"
+	},
+	{
+		"name": "Cranidos",
+		"number": "#408",
+		"shinyReleased": 1,
+		"slug": "cranidos",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6cpvl74"
+	},
+	{
+		"name": "Rampardos",
+		"number": "#409",
+		"shinyReleased": 1,
+		"slug": "rampardos",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5984kaq"
+	},
+	{
+		"name": "Shieldon",
+		"number": "#410",
+		"shinyReleased": 1,
+		"slug": "shieldon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4fm427n"
+	},
+	{
+		"name": "Bastiodon",
+		"number": "#411",
+		"shinyReleased": 1,
+		"slug": "bastiodon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "2mttort"
+	},
+	{
+		"name": "Burmy",
+		"number": "#412",
+		"shinyReleased": 1,
+		"slug": "burmy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "02pnq3b"
+	},
+	{
+		"name": "Wormadam",
+		"number": "#413",
+		"shinyReleased": 1,
+		"slug": "wormadam",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "013b892"
+	},
+	{
+		"name": "Mothim",
+		"number": "#414",
+		"shinyReleased": 1,
+		"slug": "mothim",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4vqqh65"
+	},
+	{
+		"name": "Combee",
+		"number": "#415",
+		"shinyReleased": 0,
+		"slug": "combee",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "58c204u"
+	},
+	{
+		"name": "Vespiquen",
+		"number": "#416",
+		"shinyReleased": 0,
+		"slug": "vespiquen",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "3duk1va"
+	},
+	{
+		"name": "Pachirisu",
+		"number": "#417",
+		"shinyReleased": 0,
+		"slug": "pachirisu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "6cjutcj"
+	},
+	{
+		"name": "Buizel",
+		"number": "#418",
+		"shinyReleased": 1,
+		"slug": "buizel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "5925gsk"
+	},
+	{
+		"name": "Floatzel",
+		"number": "#419",
+		"shinyReleased": 1,
+		"slug": "floatzel",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1rt0hm5"
+	},
+	{
+		"name": "Cherubi",
+		"number": "#420",
+		"shinyReleased": 1,
+		"slug": "cherubi",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0m4bhja"
+	},
+	{
+		"name": "Cherrim",
+		"number": "#421",
+		"shinyReleased": 1,
+		"slug": "cherrim",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0m4bf04"
+	},
+	{
+		"name": "Shellos",
+		"number": "#422",
+		"shinyReleased": 0,
+		"slug": "shellos",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1tad80k"
+	},
+	{
+		"name": "Gastrodon",
+		"number": "#423",
+		"shinyReleased": 0,
+		"slug": "gastrodon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "29r7ogb"
+	},
+	{
+		"name": "Ambipom",
+		"number": "#424",
+		"shinyReleased": 1,
+		"slug": "ambipom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "35d66vr"
+	},
+	{
+		"name": "Drifloon",
+		"number": "#425",
+		"shinyReleased": 1,
+		"slug": "drifloon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4i8e65i"
+	},
+	{
+		"name": "Drifblim",
+		"number": "#426",
+		"shinyReleased": 1,
+		"slug": "drifblim",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4i8nc36"
+	},
+	{
+		"name": "Buneary",
+		"number": "#427",
+		"shinyReleased": 1,
+		"slug": "buneary",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "070eb6u"
+	},
+	{
+		"name": "Lopunny",
+		"number": "#428",
+		"shinyReleased": 1,
+		"slug": "lopunny",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0aeo3nh"
+	},
+	{
+		"name": "Mismagius",
+		"number": "#429",
+		"shinyReleased": 1,
+		"slug": "mismagius",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "0vn5ltb"
+	},
+	{
+		"name": "Honchkrow",
+		"number": "#430",
+		"shinyReleased": 1,
+		"slug": "honchkrow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "57sejc4"
+	},
+	{
+		"name": "Glameow",
+		"number": "#431",
+		"shinyReleased": 1,
+		"slug": "glameow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "037edss"
+	},
+	{
+		"name": "Purugly",
+		"number": "#432",
+		"shinyReleased": 1,
+		"slug": "purugly",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "46i3muj"
+	},
+	{
+		"name": "Chingling",
+		"number": "#433",
+		"shinyReleased": 0,
+		"slug": "chingling",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "3uv5bmj"
+	},
+	{
+		"name": "Stunky",
+		"number": "#434",
+		"shinyReleased": 0,
+		"slug": "stunky",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qiic2n"
+	},
+	{
+		"name": "Skuntank",
+		"number": "#435",
+		"shinyReleased": 0,
+		"slug": "skuntank",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5lr5h54"
+	},
+	{
+		"name": "Bronzor",
+		"number": "#436",
+		"shinyReleased": 1,
+		"slug": "bronzor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "04fmbqe"
+	},
+	{
+		"name": "Bronzong",
+		"number": "#437",
+		"shinyReleased": 1,
+		"slug": "bronzong",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0b6leit"
+	},
+	{
+		"name": "Bonsly",
+		"number": "#438",
+		"shinyReleased": 1,
+		"slug": "bonsly",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "597a910"
+	},
+	{
+		"name": "Mime Jr.",
+		"number": "#439",
+		"shinyReleased": 1,
+		"slug": "mime-jr",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0vm5dc1"
+	},
+	{
+		"name": "Happiny",
+		"number": "#440",
+		"shinyReleased": 1,
+		"slug": "happiny",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0kmps4r"
+	},
+	{
+		"name": "Chatot",
+		"number": "#441",
+		"shinyReleased": 0,
+		"slug": "chatot",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "58ihl62"
+	},
+	{
+		"name": "Spiritomb",
+		"number": "#442",
+		"shinyReleased": 1,
+		"slug": "spiritomb",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "243ck5j"
+	},
+	{
+		"name": "Gible",
+		"number": "#443",
+		"shinyReleased": 1,
+		"slug": "gible",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02tpb9p"
+	},
+	{
+		"name": "Gabite",
+		"number": "#444",
+		"shinyReleased": 1,
+		"slug": "gabite",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "55bfipd"
+	},
+	{
+		"name": "Garchomp",
+		"number": "#445",
+		"shinyReleased": 1,
+		"slug": "garchomp",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5gfrv0a"
+	},
+	{
+		"name": "Munchlax",
+		"number": "#446",
+		"shinyReleased": 0,
+		"slug": "munchlax",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0kn4goo"
+	},
+	{
+		"name": "Riolu",
+		"number": "#447",
+		"shinyReleased": 1,
+		"slug": "riolu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "037fo51"
+	},
+	{
+		"name": "Lucario",
+		"number": "#448",
+		"shinyReleased": 1,
+		"slug": "lucario",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0f6hq0h"
+	},
+	{
+		"name": "Hippopotas",
+		"number": "#449",
+		"shinyReleased": 1,
+		"slug": "hippopotas",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6bh52u6"
+	},
+	{
+		"name": "Hippowdon",
+		"number": "#450",
+		"shinyReleased": 1,
+		"slug": "hippowdon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "30la01q"
+	},
+	{
+		"name": "Skorupi",
+		"number": "#451",
+		"shinyReleased": 1,
+		"slug": "skorupi",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2059s8j"
+	},
+	{
+		"name": "Drapion",
+		"number": "#452",
+		"shinyReleased": 1,
+		"slug": "drapion",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1p061db"
+	},
+	{
+		"name": "Croagunk",
+		"number": "#453",
+		"shinyReleased": 1,
+		"slug": "croagunk",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6177lmj"
+	},
+	{
+		"name": "Toxicroak",
+		"number": "#454",
+		"shinyReleased": 1,
+		"slug": "toxicroak",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50pk291"
+	},
+	{
+		"name": "Carnivine",
+		"number": "#455",
+		"shinyReleased": 0,
+		"slug": "carnivine",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "01g6h5p"
+	},
+	{
+		"name": "Finneon",
+		"number": "#456",
+		"shinyReleased": 0,
+		"slug": "finneon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4pdbpsu"
+	},
+	{
+		"name": "Lumineon",
+		"number": "#457",
+		"shinyReleased": 0,
+		"slug": "lumineon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "4vsp4u4"
+	},
+	{
+		"name": "Mantyke",
+		"number": "#458",
+		"shinyReleased": 0,
+		"slug": "mantyke",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0ot3tnp"
+	},
+	{
+		"name": "Snover",
+		"number": "#459",
+		"shinyReleased": 1,
+		"slug": "snover",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qo0mig"
+	},
+	{
+		"name": "Abomasnow",
+		"number": "#460",
+		"shinyReleased": 1,
+		"slug": "abomasnow",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2go40o5"
+	},
+	{
+		"name": "Weavile",
+		"number": "#461",
+		"shinyReleased": 1,
+		"slug": "weavile",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "14eq99v"
+	},
+	{
+		"name": "Magnezone",
+		"number": "#462",
+		"shinyReleased": 1,
+		"slug": "magnezone",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5s6mpo9"
+	},
+	{
+		"name": "Lickilicky",
+		"number": "#463",
+		"shinyReleased": 1,
+		"slug": "lickilicky",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "3gaonkg"
+	},
+	{
+		"name": "Rhyperior",
+		"number": "#464",
+		"shinyReleased": 1,
+		"slug": "rhyperior",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "405dnrd"
+	},
+	{
+		"name": "Tangrowth",
+		"number": "#465",
+		"shinyReleased": 1,
+		"slug": "tangrowth",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "3u7v958"
+	},
+	{
+		"name": "Electivire",
+		"number": "#466",
+		"shinyReleased": 1,
+		"slug": "electivire",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7aldp0v"
+	},
+	{
+		"name": "Magmortar",
+		"number": "#467",
+		"shinyReleased": 1,
+		"slug": "magmortar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5spdpin"
+	},
+	{
+		"name": "Togekiss",
+		"number": "#468",
+		"shinyReleased": 1,
+		"slug": "togekiss",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2rm1c2n"
+	},
+	{
+		"name": "Yanmega",
+		"number": "#469",
+		"shinyReleased": 1,
+		"slug": "yanmega",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "59mdf17"
+	},
+	{
+		"name": "Leafeon",
+		"number": "#470",
+		"shinyReleased": 1,
+		"slug": "leafeon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "01g2h76"
+	},
+	{
+		"name": "Glaceon",
+		"number": "#471",
+		"shinyReleased": 1,
+		"slug": "glaceon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0375aut"
+	},
+	{
+		"name": "Gliscor",
+		"number": "#472",
+		"shinyReleased": 1,
+		"slug": "gliscor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "03el9in"
+	},
+	{
+		"name": "Mamoswine",
+		"number": "#473",
+		"shinyReleased": 1,
+		"slug": "mamoswine",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4s8qlbp"
+	},
+	{
+		"name": "Porygon-Z",
+		"number": "#474",
+		"shinyReleased": 1,
+		"slug": "porygon-z",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "15n6m1d"
+	},
+	{
+		"name": "Gallade",
+		"number": "#475",
+		"shinyReleased": 1,
+		"slug": "gallade",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "45r76bn"
+	},
+	{
+		"name": "Probopass",
+		"number": "#476",
+		"shinyReleased": 1,
+		"slug": "probopass",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "516kg9k"
+	},
+	{
+		"name": "Dusknoir",
+		"number": "#477",
+		"shinyReleased": 1,
+		"slug": "dusknoir",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5q7p4pc"
+	},
+	{
+		"name": "Froslass",
+		"number": "#478",
+		"shinyReleased": 1,
+		"slug": "froslass",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "54t1bdq"
+	},
+	{
+		"name": "Rotom",
+		"number": "#479",
+		"shinyReleased": 0,
+		"slug": "rotom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "037lbfl"
+	},
+	{
+		"name": "Uxie",
+		"number": "#480",
+		"shinyReleased": 1,
+		"slug": "uxie",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "003dvnv"
+	},
+	{
+		"name": "Mesprit",
+		"number": "#481",
+		"shinyReleased": 1,
+		"slug": "mesprit",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0sejoo8"
+	},
+	{
+		"name": "Azelf",
+		"number": "#482",
+		"shinyReleased": 1,
+		"slug": "azelf",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02ovpe6"
+	},
+	{
+		"name": "Dialga",
+		"number": "#483",
+		"shinyReleased": 1,
+		"slug": "dialga",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "57mc0tl"
+	},
+	{
+		"name": "Palkia",
+		"number": "#484",
+		"shinyReleased": 1,
+		"slug": "palkia",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4tlf6tn"
+	},
+	{
+		"name": "Heatran",
+		"number": "#485",
+		"shinyReleased": 1,
+		"slug": "heatran",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0nmtp1f"
+	},
+	{
+		"name": "Regigigas",
+		"number": "#486",
+		"shinyReleased": 1,
+		"slug": "regigigas",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "01vn4c2"
+	},
+	{
+		"name": "Giratina",
+		"number": "#487",
+		"shinyReleased": 1,
+		"slug": "giratina",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "131q37p"
+	},
+	{
+		"name": "Cresselia",
+		"number": "#488",
+		"shinyReleased": 1,
+		"slug": "cresselia",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1157ctl"
+	},
+	{
+		"name": "Phione",
+		"number": "#489",
+		"shinyReleased": 0,
+		"slug": "phione",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "BDSP",
+		"id": "4tfch5a"
+	},
+	{
+		"name": "Manaphy",
+		"number": "#490",
+		"shinyReleased": 0,
+		"slug": "manaphy",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "BDSP",
+		"id": "0osiceq"
+	},
+	{
+		"name": "Darkrai",
+		"number": "#491",
+		"shinyReleased": 1,
+		"slug": "darkrai",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1aus374"
+	},
+	{
+		"name": "Shaymin",
+		"number": "#492",
+		"shinyReleased": 0,
+		"slug": "shaymin",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "BDSP",
+		"id": "1t78bf5"
+	},
+	{
+		"name": "Arceus",
+		"number": "#493",
+		"shinyReleased": 0,
+		"slug": "arceus",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "BDSP",
+		"id": "5a09qee"
+	},
+	{
+		"name": "Victini",
+		"number": "#494",
+		"shinyReleased": 0,
+		"slug": "victini",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0dfb4o0"
+	},
+	{
+		"name": "Snivy",
+		"number": "#495",
+		"shinyReleased": 1,
+		"slug": "snivy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "038ga5h"
+	},
+	{
+		"name": "Servine",
+		"number": "#496",
+		"shinyReleased": 1,
+		"slug": "servine",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "1r47i0a"
+	},
+	{
+		"name": "Serperior",
+		"number": "#497",
+		"shinyReleased": 1,
+		"slug": "serperior",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "3kvsqhf"
+	},
+	{
+		"name": "Tepig",
+		"number": "#498",
+		"shinyReleased": 1,
+		"slug": "tepig",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "0394gbt"
+	},
+	{
+		"name": "Pignite",
+		"number": "#499",
+		"shinyReleased": 1,
+		"slug": "pignite",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4h3kb05"
+	},
+	{
+		"name": "Emboar",
+		"number": "#500",
+		"shinyReleased": 1,
+		"slug": "emboar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "56ngjgp"
+	},
+	{
+		"name": "Oshawott",
+		"number": "#501",
+		"shinyReleased": 1,
+		"slug": "oshawott",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "PLA",
+		"id": "5tekfaa"
+	},
+	{
+		"name": "Dewott",
+		"number": "#502",
+		"shinyReleased": 1,
+		"slug": "dewott",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "PLA",
+		"id": "57p8l56"
+	},
+	{
+		"name": "Samurott",
+		"number": "#503",
+		"shinyReleased": 1,
+		"slug": "samurott",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "PLA",
+		"id": "64vbq8c"
+	},
+	{
+		"name": "Samurott",
+		"number": "#503",
+		"shinyReleased": 0,
+		"slug": "samurott-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "5jhu4dj"
+	},
+	{
+		"name": "Patrat",
+		"number": "#504",
+		"shinyReleased": 1,
+		"slug": "patrat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4tl7nqt"
+	},
+	{
+		"name": "Watchog",
+		"number": "#505",
+		"shinyReleased": 1,
+		"slug": "watchog",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "11hpmn7"
+	},
+	{
+		"name": "Lillipup",
+		"number": "#506",
+		"shinyReleased": 1,
+		"slug": "lillipup",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "11tntpv"
+	},
+	{
+		"name": "Herdier",
+		"number": "#507",
+		"shinyReleased": 1,
+		"slug": "herdier",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0o5e347"
+	},
+	{
+		"name": "Stoutland",
+		"number": "#508",
+		"shinyReleased": 1,
+		"slug": "stoutland",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1ldc75o"
+	},
+	{
+		"name": "Purrloin",
+		"number": "#509",
+		"shinyReleased": 0,
+		"slug": "purrloin",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1kbsqjd"
+	},
+	{
+		"name": "Liepard",
+		"number": "#510",
+		"shinyReleased": 0,
+		"slug": "liepard",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "05130jb"
+	},
+	{
+		"name": "Pansage",
+		"number": "#511",
+		"shinyReleased": 0,
+		"slug": "pansage",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4nno9hm"
+	},
+	{
+		"name": "Simisage",
+		"number": "#512",
+		"shinyReleased": 0,
+		"slug": "simisage",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "7hmpqn1"
+	},
+	{
+		"name": "Pansear",
+		"number": "#513",
+		"shinyReleased": 0,
+		"slug": "pansear",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4nno5uv"
+	},
+	{
+		"name": "Simisear",
+		"number": "#514",
+		"shinyReleased": 0,
+		"slug": "simisear",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "7hmpn4a"
+	},
+	{
+		"name": "Panpour",
+		"number": "#515",
+		"shinyReleased": 0,
+		"slug": "panpour",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4nnqj86"
+	},
+	{
+		"name": "Simipour",
+		"number": "#516",
+		"shinyReleased": 0,
+		"slug": "simipour",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "7hms4dh"
+	},
+	{
+		"name": "Munna",
+		"number": "#517",
+		"shinyReleased": 0,
+		"slug": "munna",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "033dmvp"
+	},
+	{
+		"name": "Musharna",
+		"number": "#518",
+		"shinyReleased": 0,
+		"slug": "musharna",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "76s48mu"
+	},
+	{
+		"name": "Pidove",
+		"number": "#519",
+		"shinyReleased": 1,
+		"slug": "pidove",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4teksgc"
+	},
+	{
+		"name": "Tranquill",
+		"number": "#520",
+		"shinyReleased": 1,
+		"slug": "tranquill",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "70le2a5"
+	},
+	{
+		"name": "Unfezant",
+		"number": "#521",
+		"shinyReleased": 1,
+		"slug": "unfezant",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4bl50tq"
+	},
+	{
+		"name": "Blitzle",
+		"number": "#522",
+		"shinyReleased": 1,
+		"slug": "blitzle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "40p7dt1"
+	},
+	{
+		"name": "Zebstrika",
+		"number": "#523",
+		"shinyReleased": 1,
+		"slug": "zebstrika",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "5898lnq"
+	},
+	{
+		"name": "Roggenrola",
+		"number": "#524",
+		"shinyReleased": 1,
+		"slug": "roggenrola",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4jcf2a7"
+	},
+	{
+		"name": "Boldore",
+		"number": "#525",
+		"shinyReleased": 1,
+		"slug": "boldore",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "01qraht"
+	},
+	{
+		"name": "Gigalith",
+		"number": "#526",
+		"shinyReleased": 1,
+		"slug": "gigalith",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0pl86vd"
+	},
+	{
+		"name": "Woobat",
+		"number": "#527",
+		"shinyReleased": 1,
+		"slug": "woobat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4n9uav1"
+	},
+	{
+		"name": "Swoobat",
+		"number": "#528",
+		"shinyReleased": 1,
+		"slug": "swoobat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2acqsih"
+	},
+	{
+		"name": "Drilbur",
+		"number": "#529",
+		"shinyReleased": 0,
+		"slug": "drilbur",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1p73lle"
+	},
+	{
+		"name": "Excadrill",
+		"number": "#530",
+		"shinyReleased": 0,
+		"slug": "excadrill",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "18d4qla"
+	},
+	{
+		"name": "Audino",
+		"number": "#531",
+		"shinyReleased": 1,
+		"slug": "audino",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "59tk865"
+	},
+	{
+		"name": "Timburr",
+		"number": "#532",
+		"shinyReleased": 1,
+		"slug": "timburr",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2oqs1jb"
+	},
+	{
+		"name": "Gurdurr",
+		"number": "#533",
+		"shinyReleased": 1,
+		"slug": "gurdurr",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0bbt2el"
+	},
+	{
+		"name": "Conkeldurr",
+		"number": "#534",
+		"shinyReleased": 1,
+		"slug": "conkeldurr",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0poj211"
+	},
+	{
+		"name": "Tympole",
+		"number": "#535",
+		"shinyReleased": 1,
+		"slug": "tympole",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4pfsadv"
+	},
+	{
+		"name": "Palpitoad",
+		"number": "#536",
+		"shinyReleased": 1,
+		"slug": "palpitoad",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6nnv7id"
+	},
+	{
+		"name": "Seismitoad",
+		"number": "#537",
+		"shinyReleased": 1,
+		"slug": "seismitoad",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6ijo5k9"
+	},
+	{
+		"name": "Throh",
+		"number": "#538",
+		"shinyReleased": 1,
+		"slug": "throh",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "03979mn"
+	},
+	{
+		"name": "Sawk",
+		"number": "#539",
+		"shinyReleased": 1,
+		"slug": "sawk",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "003bgd2"
+	},
+	{
+		"name": "Sewaddle",
+		"number": "#540",
+		"shinyReleased": 0,
+		"slug": "sewaddle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "6j6pora"
+	},
+	{
+		"name": "Swadloon",
+		"number": "#541",
+		"shinyReleased": 0,
+		"slug": "swadloon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "89pigqm"
+	},
+	{
+		"name": "Leavanny",
+		"number": "#542",
+		"shinyReleased": 0,
+		"slug": "leavanny",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "1f0dup6"
+	},
+	{
+		"name": "Venipede",
+		"number": "#543",
+		"shinyReleased": 0,
+		"slug": "venipede",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5uqthov"
+	},
+	{
+		"name": "Whirlipede",
+		"number": "#544",
+		"shinyReleased": 0,
+		"slug": "whirlipede",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56uc3si"
+	},
+	{
+		"name": "Scolipede",
+		"number": "#545",
+		"shinyReleased": 0,
+		"slug": "scolipede",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1qeqo8i"
+	},
+	{
+		"name": "Cottonee",
+		"number": "#546",
+		"shinyReleased": 1,
+		"slug": "cottonee",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4bou1qk"
+	},
+	{
+		"name": "Whimsicott",
+		"number": "#547",
+		"shinyReleased": 1,
+		"slug": "whimsicott",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "557i368"
+	},
+	{
+		"name": "Petilil",
+		"number": "#548",
+		"shinyReleased": 0,
+		"slug": "petilil",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4k5h66q"
+	},
+	{
+		"name": "Lilligant",
+		"number": "#549",
+		"shinyReleased": 0,
+		"slug": "lilligant",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0rpt3jc"
+	},
+	{
+		"name": "Lilligant",
+		"number": "#549",
+		"shinyReleased": 0,
+		"slug": "lilligant-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "8f2rm7q"
+	},
+	{
+		"name": "Basculin",
+		"number": "#550",
+		"shinyReleased": 0,
+		"slug": "basculin",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5jai9lk"
+	},
+	{
+		"name": "Basculin",
+		"number": "#550",
+		"shinyReleased": 0,
+		"slug": "basculin-white-striped",
+		"form": "white-striped",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6hbtioh"
+	},
+	{
+		"name": "Sandile",
+		"number": "#551",
+		"shinyReleased": 0,
+		"slug": "sandile",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1nivm4u"
+	},
+	{
+		"name": "Krokorok",
+		"number": "#552",
+		"shinyReleased": 0,
+		"slug": "krokorok",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "51djr7t"
+	},
+	{
+		"name": "Krookodile",
+		"number": "#553",
+		"shinyReleased": 0,
+		"slug": "krookodile",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4jnomsm"
+	},
+	{
+		"name": "Darumaka",
+		"number": "#554",
+		"shinyReleased": 1,
+		"slug": "darumaka",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6bq3ikl"
+	},
+	{
+		"name": "Darumaka",
+		"number": "#554",
+		"shinyReleased": 1,
+		"slug": "darumaka-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "071kg30"
+	},
+	{
+		"name": "Darmanitan",
+		"number": "#555",
+		"shinyReleased": 1,
+		"slug": "darmanitan",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7oktoi2"
+	},
+	{
+		"name": "Darmanitan",
+		"number": "#555",
+		"shinyReleased": 1,
+		"slug": "darmanitan-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "82bn8cc"
+	},
+	{
+		"name": "Maractus",
+		"number": "#556",
+		"shinyReleased": 0,
+		"slug": "maractus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "072lc0i"
+	},
+	{
+		"name": "Dwebble",
+		"number": "#557",
+		"shinyReleased": 1,
+		"slug": "dwebble",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1tbq9nb"
+	},
+	{
+		"name": "Crustle",
+		"number": "#558",
+		"shinyReleased": 1,
+		"slug": "crustle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0v3g9k0"
+	},
+	{
+		"name": "Scraggy",
+		"number": "#559",
+		"shinyReleased": 0,
+		"slug": "scraggy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1pd10lq"
+	},
+	{
+		"name": "Scrafty",
+		"number": "#560",
+		"shinyReleased": 0,
+		"slug": "scrafty",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1pd104c"
+	},
+	{
+		"name": "Sigilyph",
+		"number": "#561",
+		"shinyReleased": 0,
+		"slug": "sigilyph",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7mqpkg2"
+	},
+	{
+		"name": "Yamask",
+		"number": "#562",
+		"shinyReleased": 1,
+		"slug": "yamask",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4lvnbgb"
+	},
+	{
+		"name": "Yamask",
+		"number": "#562",
+		"shinyReleased": 0,
+		"slug": "yamask-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5btejba"
+	},
+	{
+		"name": "Cofagrigus",
+		"number": "#563",
+		"shinyReleased": 1,
+		"slug": "cofagrigus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4cbrnrh"
+	},
+	{
+		"name": "Tirtouga",
+		"number": "#564",
+		"shinyReleased": 1,
+		"slug": "tirtouga",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5p6k1m8"
+	},
+	{
+		"name": "Carracosta",
+		"number": "#565",
+		"shinyReleased": 1,
+		"slug": "carracosta",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0h4t2oh"
+	},
+	{
+		"name": "Archen",
+		"number": "#566",
+		"shinyReleased": 1,
+		"slug": "archen",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5a09o40"
+	},
+	{
+		"name": "Archeops",
+		"number": "#567",
+		"shinyReleased": 1,
+		"slug": "archeops",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5j4tcjs"
+	},
+	{
+		"name": "Trubbish",
+		"number": "#568",
+		"shinyReleased": 1,
+		"slug": "trubbish",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1mshn77"
+	},
+	{
+		"name": "Garbodor",
+		"number": "#569",
+		"shinyReleased": 1,
+		"slug": "garbodor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5ggi3ft"
+	},
+	{
+		"name": "Zorua",
+		"number": "#570",
+		"shinyReleased": 0,
+		"slug": "zorua",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "03emop9"
+	},
+	{
+		"name": "Zorua",
+		"number": "#570",
+		"shinyReleased": 0,
+		"slug": "zorua-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "50dchft"
+	},
+	{
+		"name": "Zoroark",
+		"number": "#571",
+		"shinyReleased": 0,
+		"slug": "zoroark",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4366ron"
+	},
+	{
+		"name": "Zoroark",
+		"number": "#571",
+		"shinyReleased": 0,
+		"slug": "zoroark-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "4ckmn41"
+	},
+	{
+		"name": "Minccino",
+		"number": "#572",
+		"shinyReleased": 1,
+		"slug": "minccino",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "58llks7"
+	},
+	{
+		"name": "Cinccino",
+		"number": "#573",
+		"shinyReleased": 1,
+		"slug": "cinccino",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5g2d51t"
+	},
+	{
+		"name": "Gothita",
+		"number": "#574",
+		"shinyReleased": 0,
+		"slug": "gothita",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "069uidq"
+	},
+	{
+		"name": "Gothorita",
+		"number": "#575",
+		"shinyReleased": 0,
+		"slug": "gothorita",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1h4f4vn"
+	},
+	{
+		"name": "Gothitelle",
+		"number": "#576",
+		"shinyReleased": 0,
+		"slug": "gothitelle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4hnfpso"
+	},
+	{
+		"name": "Solosis",
+		"number": "#577",
+		"shinyReleased": 0,
+		"slug": "solosis",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "23fp9su"
+	},
+	{
+		"name": "Duosion",
+		"number": "#578",
+		"shinyReleased": 0,
+		"slug": "duosion",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1rugddj"
+	},
+	{
+		"name": "Reuniclus",
+		"number": "#579",
+		"shinyReleased": 0,
+		"slug": "reuniclus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "47cmqur"
+	},
+	{
+		"name": "Ducklett",
+		"number": "#580",
+		"shinyReleased": 0,
+		"slug": "ducklett",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "67smagd"
+	},
+	{
+		"name": "Swanna",
+		"number": "#581",
+		"shinyReleased": 0,
+		"slug": "swanna",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4qgg07r"
+	},
+	{
+		"name": "Vanillite",
+		"number": "#582",
+		"shinyReleased": 0,
+		"slug": "vanillite",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0k1o59k"
+	},
+	{
+		"name": "Vanillish",
+		"number": "#583",
+		"shinyReleased": 0,
+		"slug": "vanillish",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0k1o58o"
+	},
+	{
+		"name": "Vanilluxe",
+		"number": "#584",
+		"shinyReleased": 0,
+		"slug": "vanilluxe",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0k1ogls"
+	},
+	{
+		"name": "Deerling",
+		"number": "#585",
+		"shinyReleased": 0,
+		"slug": "deerling",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "7d64ugr"
+	},
+	{
+		"name": "Sawsbuck",
+		"number": "#586",
+		"shinyReleased": 0,
+		"slug": "sawsbuck",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "5sghkqq"
+	},
+	{
+		"name": "Emolga",
+		"number": "#587",
+		"shinyReleased": 0,
+		"slug": "emolga",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56n4rv0"
+	},
+	{
+		"name": "Karrablast",
+		"number": "#588",
+		"shinyReleased": 1,
+		"slug": "karrablast",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "328kmud"
+	},
+	{
+		"name": "Escavalier",
+		"number": "#589",
+		"shinyReleased": 1,
+		"slug": "escavalier",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "00urf51"
+	},
+	{
+		"name": "Foongus",
+		"number": "#590",
+		"shinyReleased": 0,
+		"slug": "foongus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4k8ld12"
+	},
+	{
+		"name": "Amoonguss",
+		"number": "#591",
+		"shinyReleased": 0,
+		"slug": "amoonguss",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0e4kudg"
+	},
+	{
+		"name": "Frillish",
+		"number": "#592",
+		"shinyReleased": 0,
+		"slug": "frillish",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5a70hvu"
+	},
+	{
+		"name": "Jellicent",
+		"number": "#593",
+		"shinyReleased": 0,
+		"slug": "jellicent",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1nouejm"
+	},
+	{
+		"name": "Alomomola",
+		"number": "#594",
+		"shinyReleased": 1,
+		"slug": "alomomola",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "2oh0let"
+	},
+	{
+		"name": "Joltik",
+		"number": "#595",
+		"shinyReleased": 0,
+		"slug": "joltik",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "52cuh4g"
+	},
+	{
+		"name": "Galvantula",
+		"number": "#596",
+		"shinyReleased": 0,
+		"slug": "galvantula",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1c66vi7"
+	},
+	{
+		"name": "Ferroseed",
+		"number": "#597",
+		"shinyReleased": 1,
+		"slug": "ferroseed",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5j7nhs1"
+	},
+	{
+		"name": "Ferrothorn",
+		"number": "#598",
+		"shinyReleased": 1,
+		"slug": "ferrothorn",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "abf6eoo"
+	},
+	{
+		"name": "Klink",
+		"number": "#599",
+		"shinyReleased": 1,
+		"slug": "klink",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "031d0n5"
+	},
+	{
+		"name": "Klang",
+		"number": "#600",
+		"shinyReleased": 1,
+		"slug": "klang",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "031cp6p"
+	},
+	{
+		"name": "Klinklang",
+		"number": "#601",
+		"shinyReleased": 1,
+		"slug": "klinklang",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "702ppdc"
+	},
+	{
+		"name": "Tynamo",
+		"number": "#602",
+		"shinyReleased": 0,
+		"slug": "tynamo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4pj2gb5"
+	},
+	{
+		"name": "Eelektrik",
+		"number": "#603",
+		"shinyReleased": 0,
+		"slug": "eelektrik",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "1v6mf4i"
+	},
+	{
+		"name": "Eelektross",
+		"number": "#604",
+		"shinyReleased": 0,
+		"slug": "eelektross",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "6og74j0"
+	},
+	{
+		"name": "Elgyem",
+		"number": "#605",
+		"shinyReleased": 0,
+		"slug": "elgyem",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56o7udu"
+	},
+	{
+		"name": "Beheeyem",
+		"number": "#606",
+		"shinyReleased": 0,
+		"slug": "beheeyem",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1d3v46s"
+	},
+	{
+		"name": "Litwick",
+		"number": "#607",
+		"shinyReleased": 0,
+		"slug": "litwick",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "05egbeh"
+	},
+	{
+		"name": "Lampent",
+		"number": "#608",
+		"shinyReleased": 0,
+		"slug": "lampent",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "41i8tvc"
+	},
+	{
+		"name": "Chandelure",
+		"number": "#609",
+		"shinyReleased": 0,
+		"slug": "chandelure",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "622bs5g"
+	},
+	{
+		"name": "Axew",
+		"number": "#610",
+		"shinyReleased": 1,
+		"slug": "axew",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "002rpp9"
+	},
+	{
+		"name": "Fraxure",
+		"number": "#611",
+		"shinyReleased": 1,
+		"slug": "fraxure",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4i2pcrq"
+	},
+	{
+		"name": "Haxorus",
+		"number": "#612",
+		"shinyReleased": 1,
+		"slug": "haxorus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0ktqmn0"
+	},
+	{
+		"name": "Cubchoo",
+		"number": "#613",
+		"shinyReleased": 1,
+		"slug": "cubchoo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1146vpl"
+	},
+	{
+		"name": "Beartic",
+		"number": "#614",
+		"shinyReleased": 1,
+		"slug": "beartic",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "46vent5"
+	},
+	{
+		"name": "Cryogonal",
+		"number": "#615",
+		"shinyReleased": 0,
+		"slug": "cryogonal",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1edgqkc"
+	},
+	{
+		"name": "Shelmet",
+		"number": "#616",
+		"shinyReleased": 1,
+		"slug": "shelmet",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1tad8l0"
+	},
+	{
+		"name": "Accelgor",
+		"number": "#617",
+		"shinyReleased": 1,
+		"slug": "accelgor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5vv6oat"
+	},
+	{
+		"name": "Stunfisk",
+		"number": "#618",
+		"shinyReleased": 0,
+		"slug": "stunfisk",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "67q1rfa"
+	},
+	{
+		"name": "Stunfisk",
+		"number": "#618",
+		"shinyReleased": 1,
+		"slug": "stunfisk-galar",
+		"form": "galar",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "13cvc6b"
+	},
+	{
+		"name": "Mienfoo",
+		"number": "#619",
+		"shinyReleased": 0,
+		"slug": "mienfoo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0vfdpr1"
+	},
+	{
+		"name": "Mienshao",
+		"number": "#620",
+		"shinyReleased": 0,
+		"slug": "mienshao",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5g18bfn"
+	},
+	{
+		"name": "Druddigon",
+		"number": "#621",
+		"shinyReleased": 1,
+		"slug": "druddigon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0593134"
+	},
+	{
+		"name": "Golett",
+		"number": "#622",
+		"shinyReleased": 0,
+		"slug": "golett",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "54us1au"
+	},
+	{
+		"name": "Golurk",
+		"number": "#623",
+		"shinyReleased": 0,
+		"slug": "golurk",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "54uricl"
+	},
+	{
+		"name": "Pawniard",
+		"number": "#624",
+		"shinyReleased": 0,
+		"slug": "pawniard",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "17h05ei"
+	},
+	{
+		"name": "Bisharp",
+		"number": "#625",
+		"shinyReleased": 0,
+		"slug": "bisharp",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "432m9vs"
+	},
+	{
+		"name": "Bouffalant",
+		"number": "#626",
+		"shinyReleased": 0,
+		"slug": "bouffalant",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7ofjadb"
+	},
+	{
+		"name": "Rufflet",
+		"number": "#627",
+		"shinyReleased": 1,
+		"slug": "rufflet",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1dvlg7o"
+	},
+	{
+		"name": "Braviary",
+		"number": "#628",
+		"shinyReleased": 1,
+		"slug": "braviary",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "40h0k4r"
+	},
+	{
+		"name": "Braviary",
+		"number": "#628",
+		"shinyReleased": 0,
+		"slug": "braviary-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "0nd9bft"
+	},
+	{
+		"name": "Vullaby",
+		"number": "#629",
+		"shinyReleased": 1,
+		"slug": "vullaby",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0nulisp"
+	},
+	{
+		"name": "Mandibuzz",
+		"number": "#630",
+		"shinyReleased": 1,
+		"slug": "mandibuzz",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4bg5cad"
+	},
+	{
+		"name": "Heatmor",
+		"number": "#631",
+		"shinyReleased": 1,
+		"slug": "heatmor",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0nmtkp0"
+	},
+	{
+		"name": "Durant",
+		"number": "#632",
+		"shinyReleased": 1,
+		"slug": "durant",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "57baltp"
+	},
+	{
+		"name": "Deino",
+		"number": "#633",
+		"shinyReleased": 1,
+		"slug": "deino",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02r1bu9"
+	},
+	{
+		"name": "Zweilous",
+		"number": "#634",
+		"shinyReleased": 1,
+		"slug": "zweilous",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qlec3t"
+	},
+	{
+		"name": "Hydreigon",
+		"number": "#635",
+		"shinyReleased": 1,
+		"slug": "hydreigon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4s8p14s"
+	},
+	{
+		"name": "Larvesta",
+		"number": "#636",
+		"shinyReleased": 0,
+		"slug": "larvesta",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "5c8rajb"
+	},
+	{
+		"name": "Volcarona",
+		"number": "#637",
+		"shinyReleased": 0,
+		"slug": "volcarona",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1gslj51"
+	},
+	{
+		"name": "Cobalion",
+		"number": "#638",
+		"shinyReleased": 1,
+		"slug": "cobalion",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4rl6rto"
+	},
+	{
+		"name": "Terrakion",
+		"number": "#639",
+		"shinyReleased": 1,
+		"slug": "terrakion",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "20n1ved"
+	},
+	{
+		"name": "Virizion",
+		"number": "#640",
+		"shinyReleased": 1,
+		"slug": "virizion",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1ec493o"
+	},
+	{
+		"name": "Tornadus",
+		"number": "#641",
+		"shinyReleased": 1,
+		"slug": "tornadus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qlvis7"
+	},
+	{
+		"name": "Thundurus",
+		"number": "#642",
+		"shinyReleased": 1,
+		"slug": "thundurus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "18i5i3i"
+	},
+	{
+		"name": "Reshiram",
+		"number": "#643",
+		"shinyReleased": 1,
+		"slug": "reshiram",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4abol92"
+	},
+	{
+		"name": "Zekrom",
+		"number": "#644",
+		"shinyReleased": 1,
+		"slug": "zekrom",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4l0u86f"
+	},
+	{
+		"name": "Landorus",
+		"number": "#645",
+		"shinyReleased": 1,
+		"slug": "landorus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5g5kauj"
+	},
+	{
+		"name": "Kyurem",
+		"number": "#646",
+		"shinyReleased": 1,
+		"slug": "kyurem",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "518iscc"
+	},
+	{
+		"name": "Keldeo",
+		"number": "#647",
+		"shinyReleased": 0,
+		"slug": "keldeo",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "51qf4s3"
+	},
+	{
+		"name": "Meloetta",
+		"number": "#648",
+		"shinyReleased": 0,
+		"slug": "meloetta",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4jr6h88"
+	},
+	{
+		"name": "Genesect",
+		"number": "#649",
+		"shinyReleased": 1,
+		"slug": "genesect",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1luh5mo"
+	},
+	{
+		"name": "Chespin",
+		"number": "#650",
+		"shinyReleased": 0,
+		"slug": "chespin",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "0m4ca72"
+	},
+	{
+		"name": "Quilladin",
+		"number": "#651",
+		"shinyReleased": 0,
+		"slug": "quilladin",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "1effe8d"
+	},
+	{
+		"name": "Chesnaught",
+		"number": "#652",
+		"shinyReleased": 0,
+		"slug": "chesnaught",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "0qbjp74"
+	},
+	{
+		"name": "Fennekin",
+		"number": "#653",
+		"shinyReleased": 0,
+		"slug": "fennekin",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "7to023l"
+	},
+	{
+		"name": "Braixen",
+		"number": "#654",
+		"shinyReleased": 0,
+		"slug": "braixen",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "04375t9"
+	},
+	{
+		"name": "Delphox",
+		"number": "#655",
+		"shinyReleased": 0,
+		"slug": "delphox",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "1e6u13c"
+	},
+	{
+		"name": "Froakie",
+		"number": "#656",
+		"shinyReleased": 0,
+		"slug": "froakie",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4hn41cm"
+	},
+	{
+		"name": "Frogadier",
+		"number": "#657",
+		"shinyReleased": 0,
+		"slug": "frogadier",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "42lhvag"
+	},
+	{
+		"name": "Greninja",
+		"number": "#658",
+		"shinyReleased": 0,
+		"slug": "greninja",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "06bgpfg"
+	},
+	{
+		"name": "Bunnelby",
+		"number": "#659",
+		"shinyReleased": 1,
+		"slug": "bunnelby",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56a217e"
+	},
+	{
+		"name": "Diggersby",
+		"number": "#660",
+		"shinyReleased": 1,
+		"slug": "diggersby",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5truq67"
+	},
+	{
+		"name": "Fletchling",
+		"number": "#661",
+		"shinyReleased": 1,
+		"slug": "fletchling",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "22ietgg"
+	},
+	{
+		"name": "Fletchinder",
+		"number": "#662",
+		"shinyReleased": 1,
+		"slug": "fletchinder",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7g61mgd"
+	},
+	{
+		"name": "Talonflame",
+		"number": "#663",
+		"shinyReleased": 1,
+		"slug": "talonflame",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6e762ua"
+	},
+	{
+		"name": "Scatterbug",
+		"number": "#664",
+		"shinyReleased": 0,
+		"slug": "scatterbug",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "762va89"
+	},
+	{
+		"name": "Spewpa",
+		"number": "#665",
+		"shinyReleased": 0,
+		"slug": "spewpa",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "4qmhcfv"
+	},
+	{
+		"name": "Vivillon",
+		"number": "#666",
+		"shinyReleased": 0,
+		"slug": "vivillon",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "1houd85"
+	},
+	{
+		"name": "Litleo",
+		"number": "#667",
+		"shinyReleased": 1,
+		"slug": "litleo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "50rd6v0"
+	},
+	{
+		"name": "Pyroar",
+		"number": "#668",
+		"shinyReleased": 1,
+		"slug": "pyroar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4t057q8"
+	},
+	{
+		"name": "Flabébé",
+		"number": "#669",
+		"shinyReleased": 0,
+		"slug": "flabebe",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4n781au"
+	},
+	{
+		"name": "Floette",
+		"number": "#670",
+		"shinyReleased": 0,
+		"slug": "floette",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4mqq95m"
+	},
+	{
+		"name": "Florges",
+		"number": "#671",
+		"shinyReleased": 0,
+		"slug": "florges",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4mqerjj"
+	},
+	{
+		"name": "Skiddo",
+		"number": "#672",
+		"shinyReleased": 0,
+		"slug": "skiddo",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "4qqr7m1"
+	},
+	{
+		"name": "Gogoat",
+		"number": "#673",
+		"shinyReleased": 0,
+		"slug": "gogoat",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "54v09vs"
+	},
+	{
+		"name": "Pancham",
+		"number": "#674",
+		"shinyReleased": 0,
+		"slug": "pancham",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4no6kkh"
+	},
+	{
+		"name": "Pangoro",
+		"number": "#675",
+		"shinyReleased": 0,
+		"slug": "pangoro",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4no2p5t"
+	},
+	{
+		"name": "Furfrou",
+		"number": "#676",
+		"shinyReleased": 0,
+		"slug": "furfrou",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4f2dl2a"
+	},
+	{
+		"name": "Espurr",
+		"number": "#677",
+		"shinyReleased": 1,
+		"slug": "espurr",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "56hqiqc"
+	},
+	{
+		"name": "Meowstic",
+		"number": "#678",
+		"shinyReleased": 1,
+		"slug": "meowstic",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4h1r8q4"
+	},
+	{
+		"name": "Honedge",
+		"number": "#679",
+		"shinyReleased": 0,
+		"slug": "honedge",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "10iv1k4"
+	},
+	{
+		"name": "Doublade",
+		"number": "#680",
+		"shinyReleased": 0,
+		"slug": "doublade",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6nfgdnh"
+	},
+	{
+		"name": "Aegislash",
+		"number": "#681",
+		"shinyReleased": 0,
+		"slug": "aegislash",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4m1l59n"
+	},
+	{
+		"name": "Spritzee",
+		"number": "#682",
+		"shinyReleased": 0,
+		"slug": "spritzee",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5k9gfo5"
+	},
+	{
+		"name": "Aromatisse",
+		"number": "#683",
+		"shinyReleased": 0,
+		"slug": "aromatisse",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4metke1"
+	},
+	{
+		"name": "Swirlix",
+		"number": "#684",
+		"shinyReleased": 0,
+		"slug": "swirlix",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2a7kq7e"
+	},
+	{
+		"name": "Slurpuff",
+		"number": "#685",
+		"shinyReleased": 0,
+		"slug": "slurpuff",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4r9bcm4"
+	},
+	{
+		"name": "Inkay",
+		"number": "#686",
+		"shinyReleased": 0,
+		"slug": "inkay",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02vmgku"
+	},
+	{
+		"name": "Malamar",
+		"number": "#687",
+		"shinyReleased": 0,
+		"slug": "malamar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0oqptll"
+	},
+	{
+		"name": "Binacle",
+		"number": "#688",
+		"shinyReleased": 1,
+		"slug": "binacle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4379hat"
+	},
+	{
+		"name": "Barbaracle",
+		"number": "#689",
+		"shinyReleased": 1,
+		"slug": "barbaracle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4fp3ku4"
+	},
+	{
+		"name": "Skrelp",
+		"number": "#690",
+		"shinyReleased": 0,
+		"slug": "skrelp",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qqj0lg"
+	},
+	{
+		"name": "Dragalge",
+		"number": "#691",
+		"shinyReleased": 0,
+		"slug": "dragalge",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4p29kk2"
+	},
+	{
+		"name": "Clauncher",
+		"number": "#692",
+		"shinyReleased": 0,
+		"slug": "clauncher",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "019bv83"
+	},
+	{
+		"name": "Clawitzer",
+		"number": "#693",
+		"shinyReleased": 0,
+		"slug": "clawitzer",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02s2dkt"
+	},
+	{
+		"name": "Helioptile",
+		"number": "#694",
+		"shinyReleased": 0,
+		"slug": "helioptile",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "030r0u9"
+	},
+	{
+		"name": "Heliolisk",
+		"number": "#695",
+		"shinyReleased": 0,
+		"slug": "heliolisk",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "11411ka"
+	},
+	{
+		"name": "Tyrunt",
+		"number": "#696",
+		"shinyReleased": 0,
+		"slug": "tyrunt",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4piu95h"
+	},
+	{
+		"name": "Tyrantrum",
+		"number": "#697",
+		"shinyReleased": 0,
+		"slug": "tyrantrum",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "21c320g"
+	},
+	{
+		"name": "Amaura",
+		"number": "#698",
+		"shinyReleased": 0,
+		"slug": "amaura",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5a4o33g"
+	},
+	{
+		"name": "Aurorus",
+		"number": "#699",
+		"shinyReleased": 0,
+		"slug": "aurorus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4ja3p40"
+	},
+	{
+		"name": "Sylveon",
+		"number": "#700",
+		"shinyReleased": 1,
+		"slug": "sylveon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2c1064k"
+	},
+	{
+		"name": "Hawlucha",
+		"number": "#701",
+		"shinyReleased": 0,
+		"slug": "hawlucha",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "07uvukl"
+	},
+	{
+		"name": "Dedenne",
+		"number": "#702",
+		"shinyReleased": 0,
+		"slug": "dedenne",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1dvinl3"
+	},
+	{
+		"name": "Carbink",
+		"number": "#703",
+		"shinyReleased": 0,
+		"slug": "carbink",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0gg76go"
+	},
+	{
+		"name": "Goomy",
+		"number": "#704",
+		"shinyReleased": 0,
+		"slug": "goomy",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "02tv63j"
+	},
+	{
+		"name": "Sliggoo",
+		"number": "#705",
+		"shinyReleased": 0,
+		"slug": "sliggoo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "20r01vg"
+	},
+	{
+		"name": "Sliggoo",
+		"number": "#705",
+		"shinyReleased": 0,
+		"slug": "sliggoo-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "2ptmrc9"
+	},
+	{
+		"name": "Goodra",
+		"number": "#706",
+		"shinyReleased": 0,
+		"slug": "goodra",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "54upb2j"
+	},
+	{
+		"name": "Goodra",
+		"number": "#706",
+		"shinyReleased": 0,
+		"slug": "goodra-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "0f6rv25"
+	},
+	{
+		"name": "Klefki",
+		"number": "#707",
+		"shinyReleased": 0,
+		"slug": "klefki",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "51kg5av"
+	},
+	{
+		"name": "Phantump",
+		"number": "#708",
+		"shinyReleased": 0,
+		"slug": "phantump",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2dtcoc9"
+	},
+	{
+		"name": "Trevenant",
+		"number": "#709",
+		"shinyReleased": 0,
+		"slug": "trevenant",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0fjogif"
+	},
+	{
+		"name": "Pumpkaboo",
+		"number": "#710",
+		"shinyReleased": 0,
+		"slug": "pumpkaboo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5eet15r"
+	},
+	{
+		"name": "Gourgeist",
+		"number": "#711",
+		"shinyReleased": 0,
+		"slug": "gourgeist",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2jsf847"
+	},
+	{
+		"name": "Bergmite",
+		"number": "#712",
+		"shinyReleased": 0,
+		"slug": "bergmite",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1lmv7m5"
+	},
+	{
+		"name": "Avalugg",
+		"number": "#713",
+		"shinyReleased": 0,
+		"slug": "avalugg",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4itrroa"
+	},
+	{
+		"name": "Avalugg",
+		"number": "#713",
+		"shinyReleased": 0,
+		"slug": "avalugg-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "5o9s89h"
+	},
+	{
+		"name": "Noibat",
+		"number": "#714",
+		"shinyReleased": 0,
+		"slug": "noibat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4uvr0ti"
+	},
+	{
+		"name": "Noivern",
+		"number": "#715",
+		"shinyReleased": 0,
+		"slug": "noivern",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1v5ccvj"
+	},
+	{
+		"name": "Xerneas",
+		"number": "#716",
+		"shinyReleased": 0,
+		"slug": "xerneas",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1vbuf6e"
+	},
+	{
+		"name": "Yveltal",
+		"number": "#717",
+		"shinyReleased": 0,
+		"slug": "yveltal",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4o101r4"
+	},
+	{
+		"name": "Zygarde",
+		"number": "#718",
+		"shinyReleased": 0,
+		"slug": "zygarde",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "050npbq"
+	},
+	{
+		"name": "Diancie",
+		"number": "#719",
+		"shinyReleased": 0,
+		"slug": "diancie",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1hacq0d"
+	},
+	{
+		"name": "Hoopa",
+		"number": "#720",
+		"shinyReleased": 0,
+		"slug": "hoopa",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "02urc1p"
+	},
+	{
+		"name": "Volcanion",
+		"number": "#721",
+		"shinyReleased": 0,
+		"slug": "volcanion",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1gshp6b"
+	},
+	{
+		"name": "Rowlet",
+		"number": "#722",
+		"shinyReleased": 0,
+		"slug": "rowlet",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4ri77fu"
+	},
+	{
+		"name": "Dartrix",
+		"number": "#723",
+		"shinyReleased": 0,
+		"slug": "dartrix",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1av49a2"
+	},
+	{
+		"name": "Decidueye",
+		"number": "#724",
+		"shinyReleased": 0,
+		"slug": "decidueye",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "0a7vetp"
+	},
+	{
+		"name": "Decidueye",
+		"number": "#724",
+		"shinyReleased": 0,
+		"slug": "decidueye-hisui",
+		"form": "hisui",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "0ppqpki"
+	},
+	{
+		"name": "Litten",
+		"number": "#725",
+		"shinyReleased": 0,
+		"slug": "litten",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "50rcvep"
+	},
+	{
+		"name": "Torracat",
+		"number": "#726",
+		"shinyReleased": 0,
+		"slug": "torracat",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4qiestf"
+	},
+	{
+		"name": "Incineroar",
+		"number": "#727",
+		"shinyReleased": 0,
+		"slug": "incineroar",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "23o76bg"
+	},
+	{
+		"name": "Popplio",
+		"number": "#728",
+		"shinyReleased": 0,
+		"slug": "popplio",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4bnqkgc"
+	},
+	{
+		"name": "Brionne",
+		"number": "#729",
+		"shinyReleased": 0,
+		"slug": "brionne",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "04adqbf"
+	},
+	{
+		"name": "Primarina",
+		"number": "#730",
+		"shinyReleased": 0,
+		"slug": "primarina",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2932pp5"
+	},
+	{
+		"name": "Pikipek",
+		"number": "#731",
+		"shinyReleased": 0,
+		"slug": "pikipek",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4h07ur0"
+	},
+	{
+		"name": "Trumbeak",
+		"number": "#732",
+		"shinyReleased": 0,
+		"slug": "trumbeak",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "1n67ji3"
+	},
+	{
+		"name": "Toucannon",
+		"number": "#733",
+		"shinyReleased": 0,
+		"slug": "toucannon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "0algbmn"
+	},
+	{
+		"name": "Yungoos",
+		"number": "#734",
+		"shinyReleased": 1,
+		"slug": "yungoos",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "4okgor1"
+	},
+	{
+		"name": "Gumshoos",
+		"number": "#735",
+		"shinyReleased": 1,
+		"slug": "gumshoos",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "53ag7e0"
+	},
+	{
+		"name": "Grubbin",
+		"number": "#736",
+		"shinyReleased": 0,
+		"slug": "grubbin",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "08si5af"
+	},
+	{
+		"name": "Charjabug",
+		"number": "#737",
+		"shinyReleased": 0,
+		"slug": "charjabug",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1erip27"
+	},
+	{
+		"name": "Vikavolt",
+		"number": "#738",
+		"shinyReleased": 0,
+		"slug": "vikavolt",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "185rg6a"
+	},
+	{
+		"name": "Crabrawler",
+		"number": "#739",
+		"shinyReleased": 0,
+		"slug": "crabrawler",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "4e982hu"
+	},
+	{
+		"name": "Crabominable",
+		"number": "#740",
+		"shinyReleased": 0,
+		"slug": "crabominable",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "4e5pnui"
+	},
+	{
+		"name": "Oricorio",
+		"number": "#741",
+		"shinyReleased": 0,
+		"slug": "oricorio",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "unavailable",
+		"id": "6n062fp"
+	},
+	{
+		"name": "Cutiefly",
+		"number": "#742",
+		"shinyReleased": 0,
+		"slug": "cutiefly",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0ijdc6l"
+	},
+	{
+		"name": "Ribombee",
+		"number": "#743",
+		"shinyReleased": 0,
+		"slug": "ribombee",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "5es3426"
+	},
+	{
+		"name": "Rockruff",
+		"number": "#744",
+		"shinyReleased": 1,
+		"slug": "rockruff",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4fdq96n"
+	},
+	{
+		"name": "Lycanroc",
+		"number": "#745",
+		"shinyReleased": 1,
+		"slug": "lycanroc",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5ur9a1s"
+	},
+	{
+		"name": "Wishiwashi",
+		"number": "#746",
+		"shinyReleased": 0,
+		"slug": "wishiwashi",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0vsnsi8"
+	},
+	{
+		"name": "Mareanie",
+		"number": "#747",
+		"shinyReleased": 0,
+		"slug": "mareanie",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "07643ag"
+	},
+	{
+		"name": "Toxapex",
+		"number": "#748",
+		"shinyReleased": 0,
+		"slug": "toxapex",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "51nkr00"
+	},
+	{
+		"name": "Mudbray",
+		"number": "#749",
+		"shinyReleased": 0,
+		"slug": "mudbray",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "19lrbi4"
+	},
+	{
+		"name": "Mudsdale",
+		"number": "#750",
+		"shinyReleased": 0,
+		"slug": "mudsdale",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0ck2ird"
+	},
+	{
+		"name": "Dewpider",
+		"number": "#751",
+		"shinyReleased": 0,
+		"slug": "dewpider",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6tshnmt"
+	},
+	{
+		"name": "Araquanid",
+		"number": "#752",
+		"shinyReleased": 0,
+		"slug": "araquanid",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "11e573s"
+	},
+	{
+		"name": "Fomantis",
+		"number": "#753",
+		"shinyReleased": 0,
+		"slug": "fomantis",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "09hctod"
+	},
+	{
+		"name": "Lurantis",
+		"number": "#754",
+		"shinyReleased": 0,
+		"slug": "lurantis",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4rr9n8n"
+	},
+	{
+		"name": "Morelull",
+		"number": "#755",
+		"shinyReleased": 0,
+		"slug": "morelull",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "46g36j1"
+	},
+	{
+		"name": "Shiinotic",
+		"number": "#756",
+		"shinyReleased": 0,
+		"slug": "shiinotic",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0t1b3go"
+	},
+	{
+		"name": "Salandit",
+		"number": "#757",
+		"shinyReleased": 0,
+		"slug": "salandit",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "66cd4ur"
+	},
+	{
+		"name": "Salazzle",
+		"number": "#758",
+		"shinyReleased": 0,
+		"slug": "salazzle",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "66c1j43"
+	},
+	{
+		"name": "Stufful",
+		"number": "#759",
+		"shinyReleased": 1,
+		"slug": "stufful",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "27vursb"
+	},
+	{
+		"name": "Bewear",
+		"number": "#760",
+		"shinyReleased": 1,
+		"slug": "bewear",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "59fsbdt"
+	},
+	{
+		"name": "Bounsweet",
+		"number": "#761",
+		"shinyReleased": 0,
+		"slug": "bounsweet",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2u4uioa"
+	},
+	{
+		"name": "Steenee",
+		"number": "#762",
+		"shinyReleased": 0,
+		"slug": "steenee",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "27hr7pd"
+	},
+	{
+		"name": "Tsareena",
+		"number": "#763",
+		"shinyReleased": 0,
+		"slug": "tsareena",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "20n1sa3"
+	},
+	{
+		"name": "Comfey",
+		"number": "#764",
+		"shinyReleased": 0,
+		"slug": "comfey",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "58c1sc6"
+	},
+	{
+		"name": "Oranguru",
+		"number": "#765",
+		"shinyReleased": 0,
+		"slug": "oranguru",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "6th4onu"
+	},
+	{
+		"name": "Passimian",
+		"number": "#766",
+		"shinyReleased": 0,
+		"slug": "passimian",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4s1helu"
+	},
+	{
+		"name": "Wimpod",
+		"number": "#767",
+		"shinyReleased": 0,
+		"slug": "wimpod",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4nf8qrl"
+	},
+	{
+		"name": "Golisopod",
+		"number": "#768",
+		"shinyReleased": 0,
+		"slug": "golisopod",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2ug3b94"
+	},
+	{
+		"name": "Sandygast",
+		"number": "#769",
+		"shinyReleased": 0,
+		"slug": "sandygast",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1hnmmlg"
+	},
+	{
+		"name": "Palossand",
+		"number": "#770",
+		"shinyReleased": 0,
+		"slug": "palossand",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6oagcps"
+	},
+	{
+		"name": "Pyukumuku",
+		"number": "#771",
+		"shinyReleased": 0,
+		"slug": "pyukumuku",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4f2r2vn"
+	},
+	{
+		"name": "Type: Null",
+		"number": "#772",
+		"shinyReleased": 0,
+		"slug": "type-null",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "0e33j1q"
+	},
+	{
+		"name": "Silvally",
+		"number": "#773",
+		"shinyReleased": 0,
+		"slug": "silvally",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "7i755l7"
+	},
+	{
+		"name": "Minior",
+		"number": "#774",
+		"shinyReleased": 0,
+		"slug": "minior",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "50091s5"
+	},
+	{
+		"name": "Komala",
+		"number": "#775",
+		"shinyReleased": 0,
+		"slug": "komala",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "51hkfki"
+	},
+	{
+		"name": "Turtonator",
+		"number": "#776",
+		"shinyReleased": 0,
+		"slug": "turtonator",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1pcpcfo"
+	},
+	{
+		"name": "Togedemaru",
+		"number": "#777",
+		"shinyReleased": 0,
+		"slug": "togedemaru",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1ashf5h"
+	},
+	{
+		"name": "Mimikyu",
+		"number": "#778",
+		"shinyReleased": 0,
+		"slug": "mimikyu",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0vmascf"
+	},
+	{
+		"name": "Bruxish",
+		"number": "#779",
+		"shinyReleased": 0,
+		"slug": "bruxish",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "unavailable",
+		"id": "04l825b"
+	},
+	{
+		"name": "Drampa",
+		"number": "#780",
+		"shinyReleased": 0,
+		"slug": "drampa",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "57eeaqk"
+	},
+	{
+		"name": "Dhelmise",
+		"number": "#781",
+		"shinyReleased": 0,
+		"slug": "dhelmise",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4u07o36"
+	},
+	{
+		"name": "Jangmo-o",
+		"number": "#782",
+		"shinyReleased": 0,
+		"slug": "jangmo-o",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4nv6eub"
+	},
+	{
+		"name": "Hakamo-o",
+		"number": "#783",
+		"shinyReleased": 0,
+		"slug": "hakamo-o",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "42ihb3c"
+	},
+	{
+		"name": "Kommo-o",
+		"number": "#784",
+		"shinyReleased": 0,
+		"slug": "kommo-o",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4g2g6fi"
+	},
+	{
+		"name": "Tapu Koko",
+		"number": "#785",
+		"shinyReleased": 0,
+		"slug": "tapu-koko",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5t63bc3"
+	},
+	{
+		"name": "Tapu Lele",
+		"number": "#786",
+		"shinyReleased": 0,
+		"slug": "tapu-lele",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5t63v3d"
+	},
+	{
+		"name": "Tapu Bulu",
+		"number": "#787",
+		"shinyReleased": 0,
+		"slug": "tapu-bulu",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5t5rb6n"
+	},
+	{
+		"name": "Tapu Fini",
+		"number": "#788",
+		"shinyReleased": 0,
+		"slug": "tapu-fini",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "5t5ukbp"
+	},
+	{
+		"name": "Cosmog",
+		"number": "#789",
+		"shinyReleased": 0,
+		"slug": "cosmog",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "58bs6v1"
+	},
+	{
+		"name": "Cosmoem",
+		"number": "#790",
+		"shinyReleased": 0,
+		"slug": "cosmoem",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0sfl7uh"
+	},
+	{
+		"name": "Solgaleo",
+		"number": "#791",
+		"shinyReleased": 0,
+		"slug": "solgaleo",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6ju154j"
+	},
+	{
+		"name": "Lunala",
+		"number": "#792",
+		"shinyReleased": 0,
+		"slug": "lunala",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "50h0p4e"
+	},
+	{
+		"name": "Nihilego",
+		"number": "#793",
+		"shinyReleased": 0,
+		"slug": "nihilego",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "7pls9f2"
+	},
+	{
+		"name": "Buzzwole",
+		"number": "#794",
+		"shinyReleased": 0,
+		"slug": "buzzwole",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4rnb22r"
+	},
+	{
+		"name": "Pheromosa",
+		"number": "#795",
+		"shinyReleased": 0,
+		"slug": "pheromosa",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "53efs95"
+	},
+	{
+		"name": "Xurkitree",
+		"number": "#796",
+		"shinyReleased": 0,
+		"slug": "xurkitree",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "12hh3qh"
+	},
+	{
+		"name": "Celesteela",
+		"number": "#797",
+		"shinyReleased": 0,
+		"slug": "celesteela",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "65vbfne"
+	},
+	{
+		"name": "Kartana",
+		"number": "#798",
+		"shinyReleased": 0,
+		"slug": "kartana",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4rs4uq3"
+	},
+	{
+		"name": "Guzzlord",
+		"number": "#799",
+		"shinyReleased": 0,
+		"slug": "guzzlord",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4o199qs"
+	},
+	{
+		"name": "Necrozma",
+		"number": "#800",
+		"shinyReleased": 0,
+		"slug": "necrozma",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "77ftjeq"
+	},
+	{
+		"name": "Magearna",
+		"number": "#801",
+		"shinyReleased": 0,
+		"slug": "magearna",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4266cf9"
+	},
+	{
+		"name": "Marshadow",
+		"number": "#802",
+		"shinyReleased": 0,
+		"slug": "marshadow",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4ktvo01"
+	},
+	{
+		"name": "Poipole",
+		"number": "#803",
+		"shinyReleased": 0,
+		"slug": "poipole",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4btvqnt"
+	},
+	{
+		"name": "Naganadel",
+		"number": "#804",
+		"shinyReleased": 0,
+		"slug": "naganadel",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "431qkub"
+	},
+	{
+		"name": "Stakataka",
+		"number": "#805",
+		"shinyReleased": 0,
+		"slug": "stakataka",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1q2cj7p"
+	},
+	{
+		"name": "Blacephalon",
+		"number": "#806",
+		"shinyReleased": 0,
+		"slug": "blacephalon",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "066bvjr"
+	},
+	{
+		"name": "Zeraora",
+		"number": "#807",
+		"shinyReleased": 0,
+		"slug": "zeraora",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4bnk3fr"
+	},
+	{
+		"name": "Meltan",
+		"number": "#808",
+		"shinyReleased": 1,
+		"slug": "meltan",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "503r9li"
+	},
+	{
+		"name": "Melmetal",
+		"number": "#809",
+		"shinyReleased": 1,
+		"slug": "melmetal",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4jsutic"
+	},
+	{
+		"name": "Grookey",
+		"number": "#810",
+		"shinyReleased": 0,
+		"slug": "grookey",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "08nl4jk"
+	},
+	{
+		"name": "Thwackey",
+		"number": "#811",
+		"shinyReleased": 0,
+		"slug": "thwackey",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6ftint5"
+	},
+	{
+		"name": "Rillaboom",
+		"number": "#812",
+		"shinyReleased": 0,
+		"slug": "rillaboom",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2occmpl"
+	},
+	{
+		"name": "Scorbunny",
+		"number": "#813",
+		"shinyReleased": 0,
+		"slug": "scorbunny",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1vcke9j"
+	},
+	{
+		"name": "Raboot",
+		"number": "#814",
+		"shinyReleased": 0,
+		"slug": "raboot",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4rv4piu"
+	},
+	{
+		"name": "Cinderace",
+		"number": "#815",
+		"shinyReleased": 0,
+		"slug": "cinderace",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1eihucq"
+	},
+	{
+		"name": "Sobble",
+		"number": "#816",
+		"shinyReleased": 0,
+		"slug": "sobble",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4qngtfa"
+	},
+	{
+		"name": "Drizzile",
+		"number": "#817",
+		"shinyReleased": 0,
+		"slug": "drizzile",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4hmdv2o"
+	},
+	{
+		"name": "Inteleon",
+		"number": "#818",
+		"shinyReleased": 0,
+		"slug": "inteleon",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "7f064sh"
+	},
+	{
+		"name": "Skwovet",
+		"number": "#819",
+		"shinyReleased": 0,
+		"slug": "skwovet",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "20c8kjl"
+	},
+	{
+		"name": "Greedent",
+		"number": "#820",
+		"shinyReleased": 0,
+		"slug": "greedent",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "063eaqi"
+	},
+	{
+		"name": "Rookidee",
+		"number": "#821",
+		"shinyReleased": 0,
+		"slug": "rookidee",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "456el5b"
+	},
+	{
+		"name": "Corvisquire",
+		"number": "#822",
+		"shinyReleased": 0,
+		"slug": "corvisquire",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4d5fs71"
+	},
+	{
+		"name": "Corviknight",
+		"number": "#823",
+		"shinyReleased": 0,
+		"slug": "corviknight",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4k2subp"
+	},
+	{
+		"name": "Blipbug",
+		"number": "#824",
+		"shinyReleased": 0,
+		"slug": "blipbug",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "40pbogs"
+	},
+	{
+		"name": "Dottler",
+		"number": "#825",
+		"shinyReleased": 0,
+		"slug": "dottler",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1mv45fe"
+	},
+	{
+		"name": "Orbeetle",
+		"number": "#826",
+		"shinyReleased": 0,
+		"slug": "orbeetle",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6stqiph"
+	},
+	{
+		"name": "Nickit",
+		"number": "#827",
+		"shinyReleased": 0,
+		"slug": "nickit",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4v59a1h"
+	},
+	{
+		"name": "Thievul",
+		"number": "#828",
+		"shinyReleased": 0,
+		"slug": "thievul",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2ns4c7t"
+	},
+	{
+		"name": "Gossifleur",
+		"number": "#829",
+		"shinyReleased": 0,
+		"slug": "gossifleur",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "533df24"
+	},
+	{
+		"name": "Eldegoss",
+		"number": "#830",
+		"shinyReleased": 0,
+		"slug": "eldegoss",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "81a7pqf"
+	},
+	{
+		"name": "Wooloo",
+		"number": "#831",
+		"shinyReleased": 0,
+		"slug": "wooloo",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4n9u15a"
+	},
+	{
+		"name": "Dubwool",
+		"number": "#832",
+		"shinyReleased": 0,
+		"slug": "dubwool",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1rj5r16"
+	},
+	{
+		"name": "Chewtle",
+		"number": "#833",
+		"shinyReleased": 0,
+		"slug": "chewtle",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0m4g2dm"
+	},
+	{
+		"name": "Drednaw",
+		"number": "#834",
+		"shinyReleased": 0,
+		"slug": "drednaw",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1p3c02n"
+	},
+	{
+		"name": "Yamper",
+		"number": "#835",
+		"shinyReleased": 0,
+		"slug": "yamper",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4lvmtr7"
+	},
+	{
+		"name": "Boltund",
+		"number": "#836",
+		"shinyReleased": 0,
+		"slug": "boltund",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "01ra1hm"
+	},
+	{
+		"name": "Rolycoly",
+		"number": "#837",
+		"shinyReleased": 0,
+		"slug": "rolycoly",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "47c69bs"
+	},
+	{
+		"name": "Carkol",
+		"number": "#838",
+		"shinyReleased": 0,
+		"slug": "carkol",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "58o7o6b"
+	},
+	{
+		"name": "Coalossal",
+		"number": "#839",
+		"shinyReleased": 0,
+		"slug": "coalossal",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0lf6r23"
+	},
+	{
+		"name": "Applin",
+		"number": "#840",
+		"shinyReleased": 0,
+		"slug": "applin",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "5a1m5pf"
+	},
+	{
+		"name": "Flapple",
+		"number": "#841",
+		"shinyReleased": 0,
+		"slug": "flapple",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4n6qvdb"
+	},
+	{
+		"name": "Appletun",
+		"number": "#842",
+		"shinyReleased": 0,
+		"slug": "appletun",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6sr7dsc"
+	},
+	{
+		"name": "Silicobra",
+		"number": "#843",
+		"shinyReleased": 0,
+		"slug": "silicobra",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "500s9ti"
+	},
+	{
+		"name": "Sandaconda",
+		"number": "#844",
+		"shinyReleased": 0,
+		"slug": "sandaconda",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4ejcq5t"
+	},
+	{
+		"name": "Cramorant",
+		"number": "#845",
+		"shinyReleased": 0,
+		"slug": "cramorant",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1i4m599"
+	},
+	{
+		"name": "Arrokuda",
+		"number": "#846",
+		"shinyReleased": 0,
+		"slug": "arrokuda",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "56513ba"
+	},
+	{
+		"name": "Barraskewda",
+		"number": "#847",
+		"shinyReleased": 0,
+		"slug": "barraskewda",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2mqpvo9"
+	},
+	{
+		"name": "Toxel",
+		"number": "#848",
+		"shinyReleased": 0,
+		"slug": "toxel",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "039dqm4"
+	},
+	{
+		"name": "Toxtricity",
+		"number": "#849",
+		"shinyReleased": 0,
+		"slug": "toxtricity",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1ml3ucp"
+	},
+	{
+		"name": "Sizzlipede",
+		"number": "#850",
+		"shinyReleased": 0,
+		"slug": "sizzlipede",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "7uq341m"
+	},
+	{
+		"name": "Centiskorch",
+		"number": "#851",
+		"shinyReleased": 0,
+		"slug": "centiskorch",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "736368u"
+	},
+	{
+		"name": "Clobbopus",
+		"number": "#852",
+		"shinyReleased": 0,
+		"slug": "clobbopus",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4su4nmq"
+	},
+	{
+		"name": "Grapploct",
+		"number": "#853",
+		"shinyReleased": 0,
+		"slug": "grapploct",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "52ni53l"
+	},
+	{
+		"name": "Sinistea",
+		"number": "#854",
+		"shinyReleased": 0,
+		"slug": "sinistea",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "7grfiph"
+	},
+	{
+		"name": "Polteageist",
+		"number": "#855",
+		"shinyReleased": 0,
+		"slug": "polteageist",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0sg7lh9"
+	},
+	{
+		"name": "Hatenna",
+		"number": "#856",
+		"shinyReleased": 0,
+		"slug": "hatenna",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0kq0o9n"
+	},
+	{
+		"name": "Hattrem",
+		"number": "#857",
+		"shinyReleased": 0,
+		"slug": "hattrem",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0kqeg61"
+	},
+	{
+		"name": "Hatterene",
+		"number": "#858",
+		"shinyReleased": 0,
+		"slug": "hatterene",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "1e2herm"
+	},
+	{
+		"name": "Impidimp",
+		"number": "#859",
+		"shinyReleased": 0,
+		"slug": "impidimp",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4cofprq"
+	},
+	{
+		"name": "Morgrem",
+		"number": "#860",
+		"shinyReleased": 0,
+		"slug": "morgrem",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "14ugaf3"
+	},
+	{
+		"name": "Grimmsnarl",
+		"number": "#861",
+		"shinyReleased": 0,
+		"slug": "grimmsnarl",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "770u9gt"
+	},
+	{
+		"name": "Obstagoon",
+		"number": "#862",
+		"shinyReleased": 1,
+		"slug": "obstagoon",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2ecavdk"
+	},
+	{
+		"name": "Perrserker",
+		"number": "#863",
+		"shinyReleased": 1,
+		"slug": "perrserker",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4310kmi"
+	},
+	{
+		"name": "Cursola",
+		"number": "#864",
+		"shinyReleased": 0,
+		"slug": "cursola",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "11ioloh"
+	},
+	{
+		"name": "Sirfetch'd",
+		"number": "#865",
+		"shinyReleased": 1,
+		"slug": "sirfetchd",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "1s76u66"
+	},
+	{
+		"name": "Mr. Rime",
+		"number": "#866",
+		"shinyReleased": 0,
+		"slug": "mr-rime",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "15juf9n"
+	},
+	{
+		"name": "Runerigus",
+		"number": "#867",
+		"shinyReleased": 0,
+		"slug": "runerigus",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "3n2385k"
+	},
+	{
+		"name": "Milcery",
+		"number": "#868",
+		"shinyReleased": 0,
+		"slug": "milcery",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0vl923p"
+	},
+	{
+		"name": "Alcremie",
+		"number": "#869",
+		"shinyReleased": 0,
+		"slug": "alcremie",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "6hiecr1"
+	},
+	{
+		"name": "Falinks",
+		"number": "#870",
+		"shinyReleased": 0,
+		"slug": "falinks",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "2vm9vuu"
+	},
+	{
+		"name": "Pincurchin",
+		"number": "#871",
+		"shinyReleased": 0,
+		"slug": "pincurchin",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2b1igql"
+	},
+	{
+		"name": "Snom",
+		"number": "#872",
+		"shinyReleased": 0,
+		"slug": "snom",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "003bsbp"
+	},
+	{
+		"name": "Frosmoth",
+		"number": "#873",
+		"shinyReleased": 0,
+		"slug": "frosmoth",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "54t015p"
+	},
+	{
+		"name": "Stonjourner",
+		"number": "#874",
+		"shinyReleased": 0,
+		"slug": "stonjourner",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0ltb9tp"
+	},
+	{
+		"name": "Eiscue",
+		"number": "#875",
+		"shinyReleased": 0,
+		"slug": "eiscue",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "56qi73r"
+	},
+	{
+		"name": "Indeedee",
+		"number": "#876",
+		"shinyReleased": 0,
+		"slug": "indeedee",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "03aobn5"
+	},
+	{
+		"name": "Morpeko",
+		"number": "#877",
+		"shinyReleased": 0,
+		"slug": "morpeko",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "14uo499"
+	},
+	{
+		"name": "Cufant",
+		"number": "#878",
+		"shinyReleased": 0,
+		"slug": "cufant",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "586v96c"
+	},
+	{
+		"name": "Copperajah",
+		"number": "#879",
+		"shinyReleased": 0,
+		"slug": "copperajah",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "061s3l9"
+	},
+	{
+		"name": "Dracozolt",
+		"number": "#880",
+		"shinyReleased": 0,
+		"slug": "dracozolt",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4c7q6m3"
+	},
+	{
+		"name": "Arctozolt",
+		"number": "#881",
+		"shinyReleased": 0,
+		"slug": "arctozolt",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2oo8saa"
+	},
+	{
+		"name": "Dracovish",
+		"number": "#882",
+		"shinyReleased": 0,
+		"slug": "dracovish",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4c7u0fo"
+	},
+	{
+		"name": "Arctovish",
+		"number": "#883",
+		"shinyReleased": 0,
+		"slug": "arctovish",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2oo52gl"
+	},
+	{
+		"name": "Duraludon",
+		"number": "#884",
+		"shinyReleased": 0,
+		"slug": "duraludon",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2fdjt4q"
+	},
+	{
+		"name": "Dreepy",
+		"number": "#885",
+		"shinyReleased": 0,
+		"slug": "dreepy",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "57eatu8"
+	},
+	{
+		"name": "Drakloak",
+		"number": "#886",
+		"shinyReleased": 0,
+		"slug": "drakloak",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4oueqeq"
+	},
+	{
+		"name": "Dragapult",
+		"number": "#887",
+		"shinyReleased": 0,
+		"slug": "dragapult",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "4976tk5"
+	},
+	{
+		"name": "Zacian",
+		"number": "#888",
+		"shinyReleased": 0,
+		"slug": "zacian",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4l4mha5"
+	},
+	{
+		"name": "Zamazenta",
+		"number": "#889",
+		"shinyReleased": 0,
+		"slug": "zamazenta",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "749q0ea"
+	},
+	{
+		"name": "Eternatus",
+		"number": "#890",
+		"shinyReleased": 0,
+		"slug": "eternatus",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0sa3qr3"
+	},
+	{
+		"name": "Kubfu",
+		"number": "#891",
+		"shinyReleased": 0,
+		"slug": "kubfu",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "031kvo7"
+	},
+	{
+		"name": "Urshifu",
+		"number": "#892",
+		"shinyReleased": 0,
+		"slug": "urshifu",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "44ri1vp"
+	},
+	{
+		"name": "Zarude",
+		"number": "#893",
+		"shinyReleased": 0,
+		"slug": "zarude",
+		"form": "$",
+		"isReleased": 1,
+		"switchGame": "SWSH",
+		"id": "4l48hik"
+	},
+	{
+		"name": "Regieleki",
+		"number": "#894",
+		"shinyReleased": 0,
+		"slug": "regieleki",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "01u1ea7"
+	},
+	{
+		"name": "Regidrago",
+		"number": "#895",
+		"shinyReleased": 0,
+		"slug": "regidrago",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "01taj46"
+	},
+	{
+		"name": "Glastrier",
+		"number": "#896",
+		"shinyReleased": 0,
+		"slug": "glastrier",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "189iqh1"
+	},
+	{
+		"name": "Spectrier",
+		"number": "#897",
+		"shinyReleased": 0,
+		"slug": "spectrier",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "2dptd5t"
+	},
+	{
+		"name": "Calyrex",
+		"number": "#898",
+		"shinyReleased": 0,
+		"slug": "calyrex",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "SWSH",
+		"id": "0gbj8iq"
+	},
+	{
+		"name": "Wyrdeer",
+		"number": "#899",
+		"shinyReleased": 0,
+		"slug": "wyrdeer",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "1lvaolu"
+	},
+	{
+		"name": "Kleavor",
+		"number": "#900",
+		"shinyReleased": 0,
+		"slug": "kleavor",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "4irpcg3"
+	},
+	{
+		"name": "Ursaluna",
+		"number": "#901",
+		"shinyReleased": 0,
+		"slug": "ursaluna",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "4msi1mo"
+	},
+	{
+		"name": "Basculegion",
+		"number": "#902",
+		"shinyReleased": 0,
+		"slug": "basculegion",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "10ndai0"
+	},
+	{
+		"name": "Sneasler",
+		"number": "#903",
+		"shinyReleased": 0,
+		"slug": "sneasler",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "7kga6k2"
+	},
+	{
+		"name": "Overqwil",
+		"number": "#904",
+		"shinyReleased": 0,
+		"slug": "overqwil",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "0fpdn4t"
+	},
+	{
+		"name": "Enamorus",
+		"number": "#905",
+		"shinyReleased": 0,
+		"slug": "enamorus",
+		"form": "$",
+		"isReleased": 0,
+		"switchGame": "PLA",
+		"id": "6eo3419"
+	}
+]
