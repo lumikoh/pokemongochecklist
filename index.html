@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Pokemon GO Checklist</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="headerThing">
+        <div></div>
+    </div>
+    <div id="checkboxDiv">
+        <div class="checkbox"><input type="checkbox" id="hideObtained"><span>Hide Obtained</span><button type="button" onclick="downloadClicked()">Download</button></div>
+        <div class="checkbox"><input  type="checkbox" id="hideUnavailable"><span>Hide Unavailable</span><button type="button" onclick="uploadClicked()">Upload</button></div>
+    </div>
+    <table id="table">
+        <tbody id="pokemonList">
+            <tr id="header">
+                <th>✓</th>
+                <th>#</th>
+                <th><img src="img/ball.png" alt=""></th>
+                <th>Name</th>
+                <th><img id="switch" src="img/switch.png" alt=""></th>
+                <th><img src="img/box.png" alt=""></th>
+            </tr>
+        </tbody>
+    </table>
+    <div id="enddiv"></div>
+
+    <script src="script.js"></script>
+    
+</body>
