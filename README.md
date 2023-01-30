@@ -5,4 +5,4 @@ A checklist to manage a Pokemon GO collection inside Pokemon HOME. The list allo
 
 **Important!** There is an option to export your data as it's stored in the user's local storage only, but currently there is no upload functionality. Currently this project is halted so I am not sure if this will be ever implemented, but at least it's a way to save your data.
 
-**Note on browser** Seems like the page isn't visually pretty in Firefox, which needs to be fixed. Usage of Chromium-based browsers is recommended for now.
+**Note on browser:** Seems like the page isn't visually pretty in Firefox, which needs to be fixed. Usage of Chromium-based browsers is recommended for now.
